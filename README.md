@@ -1,4 +1,4 @@
 # Useful-Resources
 
 ## Games
-https://fitgirl-repacks.site/
+[FATGIRL](https://fitgirl-repacks.site/)
