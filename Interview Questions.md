@@ -1,5 +1,3 @@
-# Testing Resources
-
 # INTERVIEW QUESTIONS
 
  ## WEB
