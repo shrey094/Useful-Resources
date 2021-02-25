@@ -8,9 +8,9 @@
 
 ## Softwares
 [getpcsofts](https://www.getpcsofts.net/)<br />
-[]()<br />
-[]()<br />
-[]()<br />
+[](https://filehippo.com/)<br />
+[](http://www.appwikia.com/)<br />
+[](https://computerworm.net/page/2/)<br />
 []()<br />
 []()<br />
 []()<br />
