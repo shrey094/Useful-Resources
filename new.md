@@ -51,13 +51,19 @@
 
 [OneClickRun.ipynb](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)
 
-[Start your DevOps pipeline in the Azure Cloud - Microsoft Tech Community - 1621484 - https://techcommunity.microsoft.com/t5/azure-developer-community-blog/start-your-devops-pipeline-in-the-azure-cloud/ba-p/1621484
-stalker player v4.0.rar - https://www.dosyaupload.com/o0yW
-SourceWolf | Amazingly Fast Response Crawler To Find Juicy Stuff In The Source Code! - Tools & Scripts - OneHack.Us | Tutorials For Free, Guides, Articles & Community Forum - https://onehack.us/t/sourcewolf-amazingly-fast-}response-crawler-to-find-juicy-stuff-in-the-source-code/104094
-Create Google TeamDrive - https://td.hackgence.com/
-GitHub - kulokenci/goindex-drive: Google Drive Directory Index - https://github.com/kulokenci/goindex-drive
-GitHub - ericyd/gdrive-copy: Web app to copy a Google Drive folder - https://github.com/ericyd/gdrive-copy
-How to go from a Python newbie to a Google Certified TensorFlow Developer under two months | by Grady Matthias Oktavian | Sep, 2020 | Towards Data Science - https://towardsdatascience.com/how-to-go-from-a-python-newbie-to-a-google-certified-tensorflow-developer-under-two-months-3d1535432284
+[Start your DevOps pipeline in the Azure Cloud](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/start-your-devops-pipeline-in-the-azure-cloud/ba-p/1621484)
+
+## IPTV
+[stalker player](https://www.dosyaupload.com/o0yW)
+[OneHack.Us](https://onehack.us/t/sourcewolf-amazingly-fast-}response-crawler-to-find-juicy-stuff-in-the-source-code/104094)
+
+[Create Google TeamDrive](https://td.hackgence.com/)
+
+[Google Drive Directory Index](https://github.com/kulokenci/goindex-drive)
+
+[Web app to copy a Google Drive folder](https://github.com/ericyd/gdrive-copy)
+
+[Google Certified TensorFlow Developer under two months](https://towardsdatascience.com/how-to-go-from-a-python-newbie-to-a-google-certified-tensorflow-developer-under-two-months-3d1535432284)
 Programming Resources | Made In Iran | Massive Collection 💯 - Give-Away and Freebies - OneHack.Us | Tutorials For Free, Guides, Articles & Community Forum - https://onehack.us/t/programming-resources-made-in-iran-massive-collection/104422
 - Drive - /Movies/ - https://84n4n4.ga/0:/Movies/
 stalker player v4.0.rar - Google Drive - https://drive.google.com/file/d/15dFWJwdDi5hGVvzY974Vas7bEJV7s_UV/view
