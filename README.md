@@ -1,8 +1,8 @@
 # Useful-Resources
 
 ## Games
-[FATGIRL](https://fitgirl-repacks.site/)
-\n [Gametrex](https://gametrex.com/)
+[FATGIRL](https://fitgirl-repacks.site/)__
+[Gametrex](https://gametrex.com/)__
 []()
 []()
 []()
