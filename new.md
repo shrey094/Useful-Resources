@@ -6,7 +6,7 @@
 
 [Gitpod - Dev environments built for the cloud](https://www.gitpod.io/)<br />
 [Contribute.dev](https://contribute.dev/)<br />
-[A-to-Z-Resources-for-Student](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-programs)<br />
+[A-to-Z-Resources-for-Student](https://github.com/dipakkr/A-to-Z-Resources-for-Students)<br />
 
 
 
@@ -44,13 +44,16 @@
 [Best New Car Prices in Canada.Unhaggle](https://unhaggle.com)
 
 
+## Colabs
 
+## Home automation
+[Home Assistant](https://www.home-assistant.io/)
 
-[OneClickRun.ipynb - Colaboratory - https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb
-[Home Assistant - https://www.home-assistant.io/
+[OneClickRun.ipynb](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)
+
 [Start your DevOps pipeline in the Azure Cloud - Microsoft Tech Community - 1621484 - https://techcommunity.microsoft.com/t5/azure-developer-community-blog/start-your-devops-pipeline-in-the-azure-cloud/ba-p/1621484
 stalker player v4.0.rar - https://www.dosyaupload.com/o0yW
-SourceWolf | Amazingly Fast Response Crawler To Find Juicy Stuff In The Source Code! - Tools & Scripts - OneHack.Us | Tutorials For Free, Guides, Articles & Community Forum - https://onehack.us/t/sourcewolf-amazingly-fast-response-crawler-to-find-juicy-stuff-in-the-source-code/104094
+SourceWolf | Amazingly Fast Response Crawler To Find Juicy Stuff In The Source Code! - Tools & Scripts - OneHack.Us | Tutorials For Free, Guides, Articles & Community Forum - https://onehack.us/t/sourcewolf-amazingly-fast-}response-crawler-to-find-juicy-stuff-in-the-source-code/104094
 Create Google TeamDrive - https://td.hackgence.com/
 GitHub - kulokenci/goindex-drive: Google Drive Directory Index - https://github.com/kulokenci/goindex-drive
 GitHub - ericyd/gdrive-copy: Web app to copy a Google Drive folder - https://github.com/ericyd/gdrive-copy
