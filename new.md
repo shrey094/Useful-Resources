@@ -1,25 +1,22 @@
-[GameTrex - Download Games For Free] (https://gametrex.com/)
+[GameTrex - Download Games For Free](https://gametrex.com/)
 
-[PrivacyTools - Encryption Against Global Mass Surveillance] (https://www.privacytools.io/)
+[PrivacyTools - Encryption Against Global Mass Surveillance](https://www.privacytools.io/)
 
-[KL Torrent - Team Drive - KL Torrent - TD 1 - / - https://td.klprojects.tech/0:/
+[How to Setup a Forever Free Ad Blocking WireGuard VPN Server with PiHole in the Cloud for Free]( https://medium.com/@devinjaystokes/)
 
-[How to Setup a Forever Free Ad Blocking WireGuard VPN Server with PiHole in the Cloud for Free | by stoXe | Aug, 2020 | Medium ] ( https://medium.com/@devinjaystokes/)
+[Coursera | Online Courses & Credentials From Top Educators](https://www.coursera.org/learn/ai-for-everyone/home/welcome)
 
-GameTrex - Download Games For Free - https://gametrex.com/
-PrivacyTools - Encryption Against Global Mass Surveillance - https://www.privacytools.io/
-KL Torrent - Team Drive - KL Torrent - TD 1 - / - https://td.klprojects.tech/0:/
-How to Setup a Forever Free Ad Blocking WireGuard VPN Server with PiHole in the Cloud for Free | by stoXe | Aug, 2020 | Medium - https://medium.com/@devinjaystokes/how-to-setup-an-ad-blocking-wireguard-vpn-server-with-pihole-in-the-cloud-for-free-e814e45aac50
-Coursera | Online Courses & Credentials From Top Educators. Join for Free | Coursera - https://www.coursera.org/learn/ai-for-everyone/home/welcome
-Download IDE - https://www.outsystems.com/home/Provisioning.aspx
-Best New Car Prices in Canada. Free Dealer Invoice Price. | Unhaggle - https://unhaggle.com/?utm_medium=adwords&utm_source=paid-search&utm_campaign=unhaggle-exact&utm_term=unhaggle&utm_content=unhaggle&pid=270&gclid=CjwKCAjwkJj6BRA-EiwA0ZVPVpCPjF3qJIG8-cid4sNH38lntjEuVXSwgt_16aYy7WuqTmFLya2FmBoC24UQAvD_BwE
-From a complete newbie to passing the TensorFlow Developer Certificate Exam | by Harsheev Desai | Aug, 2020 | Towards Data Science - https://towardsdatascience.com/from-a-complete-newbie-to-passing-the-tensorflow-developer-certificate-exam-d919e1e5a0f3
-Gitpod - Dev environments built for the cloud - https://www.gitpod.io/
-Contribute.dev - https://contribute.dev/
-GitHub - dipakkr/A-to-Z-Resources-for-Students: ✅ Curated list of resources for college students - https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-programs
-OneClickRun.ipynb - Colaboratory - https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb
-Home Assistant - https://www.home-assistant.io/
-Start your DevOps pipeline in the Azure Cloud - Microsoft Tech Community - 1621484 - https://techcommunity.microsoft.com/t5/azure-developer-community-blog/start-your-devops-pipeline-in-the-azure-cloud/ba-p/1621484
+[outsystems IDE](https://www.outsystems.com/home/Provisioning.aspx)
+
+[Best New Car Prices in Canada.Unhaggle](https://unhaggle.com)
+
+[From a complete newbie to passing the TensorFlow Developer Certificate Exam | by Harsheev Desai | Aug, 2020 | Towards Data Science - https://towardsdatascience.com/from-a-[complete-newbie-to-passing-the-tensorflow-developer-certificate-exam-d919e1e5a0f3
+[Gitpod - Dev environments built for the cloud - https://www.gitpod.io/
+[Contribute.dev - https://contribute.dev/
+[GitHub - dipakkr/A-to-Z-Resources-for-Students: ✅ Curated list of resources for college students - https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-programs
+[OneClickRun.ipynb - Colaboratory - https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb
+[Home Assistant - https://www.home-assistant.io/
+[Start your DevOps pipeline in the Azure Cloud - Microsoft Tech Community - 1621484 - https://techcommunity.microsoft.com/t5/azure-developer-community-blog/start-your-devops-pipeline-in-the-azure-cloud/ba-p/1621484
 stalker player v4.0.rar - https://www.dosyaupload.com/o0yW
 SourceWolf | Amazingly Fast Response Crawler To Find Juicy Stuff In The Source Code! - Tools & Scripts - OneHack.Us | Tutorials For Free, Guides, Articles & Community Forum - https://onehack.us/t/sourcewolf-amazingly-fast-response-crawler-to-find-juicy-stuff-in-the-source-code/104094
 Create Google TeamDrive - https://td.hackgence.com/
