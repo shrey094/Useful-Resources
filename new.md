@@ -1,19 +1,51 @@
+## Games
 [GameTrex - Download Games For Free](https://gametrex.com/)
 
+## Development
+[outsystems IDE](https://www.outsystems.com/home/Provisioning.aspx)
+
+[Gitpod - Dev environments built for the cloud](https://www.gitpod.io/)
+[Contribute.dev - https://contribute.dev/
+[A-to-Z-Resources-for-Student](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-programs)
+
+
+
+
+
+
+# security
 [PrivacyTools - Encryption Against Global Mass Surveillance](https://www.privacytools.io/)
 
 [How to Setup a Forever Free Ad Blocking WireGuard VPN Server with PiHole in the Cloud for Free]( https://medium.com/@devinjaystokes/)
 
+
+
+
+### Study
 [Coursera | Online Courses & Credentials From Top Educators](https://www.coursera.org/learn/ai-for-everyone/home/welcome)
 
-[outsystems IDE](https://www.outsystems.com/home/Provisioning.aspx)
+
+
+
+
+
+
+
+
+
+# AI
+[From a complete newbie to passing the TensorFlow Developer Certificate Exam](https://towardsdatascience.com/from-a-[complete-newbie-to-passing-the-tensorflow-developer-certificate-exam-d919e1e5a0f3)
+
+
+
+
+## Canada
 
 [Best New Car Prices in Canada.Unhaggle](https://unhaggle.com)
 
-[From a complete newbie to passing the TensorFlow Developer Certificate Exam | by Harsheev Desai | Aug, 2020 | Towards Data Science - https://towardsdatascience.com/from-a-[complete-newbie-to-passing-the-tensorflow-developer-certificate-exam-d919e1e5a0f3
-[Gitpod - Dev environments built for the cloud - https://www.gitpod.io/
-[Contribute.dev - https://contribute.dev/
-[GitHub - dipakkr/A-to-Z-Resources-for-Students: ✅ Curated list of resources for college students - https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-programs
+
+
+
 [OneClickRun.ipynb - Colaboratory - https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb
 [Home Assistant - https://www.home-assistant.io/
 [Start your DevOps pipeline in the Azure Cloud - Microsoft Tech Community - 1621484 - https://techcommunity.microsoft.com/t5/azure-developer-community-blog/start-your-devops-pipeline-in-the-azure-cloud/ba-p/1621484
