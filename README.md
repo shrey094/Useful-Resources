@@ -7,7 +7,7 @@
 [steamunlocked](https://steamunlocked.net/)<br />
 
 ## Softwares
-[Midian](https://www.midian.appboxes.co/APPS/)<br />
+[getpcsofts](https://www.getpcsofts.net/)<br />
 []()<br />
 []()<br />
 []()<br />
