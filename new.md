@@ -4,9 +4,9 @@
 ## Development
 [outsystems IDE](https://www.outsystems.com/home/Provisioning.aspx)
 
-[Gitpod - Dev environments built for the cloud](https://www.gitpod.io/)
-[Contribute.dev - https://contribute.dev/
-[A-to-Z-Resources-for-Student](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-programs)
+[Gitpod - Dev environments built for the cloud](https://www.gitpod.io/)<br />
+[Contribute.dev](https://contribute.dev/)<br />
+[A-to-Z-Resources-for-Student](https://github.com/dipakkr/A-to-Z-Resources-for-Students#6-internship-programs)<br />
 
 
 
