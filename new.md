@@ -1,16 +1,16 @@
 
 
 ## Canada
-- [New & Used Cars for Sale | Car Prices | Canadian Black Book](https://www.canadianblackbook.com/)
-- [Best New Car Prices in Canada.Unhaggle](https://unhaggle.com)
+[New & Used Cars for Sale | Car Prices | Canadian Black Book](https://www.canadianblackbook.com/)
+[Best New Car Prices in Canada.Unhaggle](https://unhaggle.com)
 
 ## Home automation
-- [Home Assistant](https://www.home-assistant.io/)
+[Home Assistant](https://www.home-assistant.io/)
 
 # Misc
-- [Indian Diet Plan for Weight Loss](https://www-healthifyme-com.cdn.ampproject.org/v/s/www.healthifyme.com/blog/best-indian-diet-plan-weight-loss/amp/?amp_js_v=a3&_gsa=1#referrer=https%3A%2F%2Fwww.google.com&_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.healthifyme.com%2Fblog%2Fbest-indian-diet-plan-weight-loss%2F)
+[Indian Diet Plan for Weight Loss](https://www-healthifyme-com.cdn.ampproject.org/v/s/www.healthifyme.com/blog/best-indian-diet-plan-weight-loss/amp/?amp_js_v=a3&_gsa=1#referrer=https%3A%2F%2Fwww.google.com&_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.healthifyme.com%2Fblog%2Fbest-indian-diet-plan-weight-loss%2F)
 
-- [CleanSpoon ](https://ui.singintherain.co/pages/dashboard/widgets)
+[CleanSpoon ](https://ui.singintherain.co/pages/dashboard/widgets)
 
 
 [Agile Project Management and SCRUM OpenClassrooms ](https://openclassrooms.com/en/courses/4544621-learn-about-agile-project-management-and-scrum/4544628-discover-the-waterfall-and-iterative-approaches-to-software-development)
@@ -31,9 +31,6 @@ tool for programmers to generate minimalistic programming portfoliohttps://githu
 
 [Reqres A hosted REST-API ready to respond to your AJAX requests ]https://reqres.in/
 [QA Automation: RestAssured ]https://www.qaautomation.co.in/search/label/RestAssured?m=1
-
-
-uttesh/pdfngreport: This is the pdf report plugin library written for testng/selenium frameworks, this listener will generate the pdf report on testcases execution, its very simple to configure no need to write any code. https://github.com/uttesh/pdfngreport
 JitPack | Publish JVM and Android libraries https://jitpack.io/
 StickyMinds | Software Testing & QA Online Community https://www.stickyminds.com/
 Vinsguru http://www.vinsguru.com/
@@ -242,7 +239,7 @@ HIFI 2007 REVIEWS — Android apk software https://hifi2007reviews.com/
 20 Best ADB Commands Every Android Users Should Know https://techviral.net/android-adb-commands/
 SOURCE OF APK Source of daily free applications APK files and games https://sourceofapk.com/
 haxNode https://haxnode.com/
-- [OFFICIAL]- [TOOL]- [WINDOWS] ADB, Fastboot and … | Android Development and Hacking https://forum.xda-developers.com/showthread.php?t=2588979
+[OFFICIAL][TOOL][WINDOWS] ADB, Fastboot and … | Android Development and Hacking https://forum.xda-developers.com/showthread.php?t=2588979
 NMac Ked Mac OSX Apps & Games Download https://nmac.to/
 Hundred Zeros Download Free Books for Kindle http://hundredzeros.com/
 NulledPremium.Com | Download Paid Books, AudioBooks, Magazines For Free https://nulledpremium.com/
@@ -254,7 +251,7 @@ File Search Engine anonfile.com link genarator, fast download and upload, premiu
 CrackzSoft Verified and Trusted Softwares Store https://crackzsoft.me/
 cracked-games.org | Games & Software | Official Website https://cracked-games.org/
 Ova Games Crack Full Version PC Games Download Free https://www.ovagames.com/
-Skillshare_DL_- [1hack] Colaboratory https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_- [1hack].ipynb
+Skillshare_DL_[1hack] Colaboratory https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_[1hack].ipynb
 PiratedTech – Technology Pirates https://piratedtech.com/
 PC Archives | PiratedHub https://piratedhub.com/category/pc/
 (3) (3) https://spideadcrew.in/index.php
@@ -290,13 +287,13 @@ Hack Forums https://hackforums.net/
 0x00sec The Home of the Hacker https://0x00sec.org/
 Freebie & Coupons Zone | Babiato Forums https://babiato.org/forums/freebie-coupons-zone.69/
 We Leak Info Data Breach Search Engine https://weleakinfo.to/
-- [SCRIPT] - [2020-09-18] - [v2.6] Universal Andro… | Android Development and Hacking https://forum.xda-developers.com/android/software-hacking/script-universal-android-debloater-t4069209
+[SCRIPT] [2020-09-18] [v2.6] Universal Andro… | Android Development and Hacking https://forum.xda-developers.com/android/software-hacking/script-universal-android-debloater-t4069209
 Apktool A tool for reverse engineering 3rd party, closed, binary Android apps. https://ibotpeaches.github.io/Apktool/
-- [APP 4.0+] 3C All-in-One Toolbox | Android Development and Hacking https://forum.xda-developers.com/android/apps-games/app-2-3-3c-toolbox-pro-t2942186
-- [APP] - [5.0+] Warden App Manager | Android Development and Hacking https://forum.xda-developers.com/android/apps-games/warden-app-manager-t4122227
+[APP 4.0+] 3C All-in-One Toolbox | Android Development and Hacking https://forum.xda-developers.com/android/apps-games/app-2-3-3c-toolbox-pro-t2942186
+[APP] [5.0+] Warden App Manager | Android Development and Hacking https://forum.xda-developers.com/android/apps-games/warden-app-manager-t4122227
 W1nst0n / Universal Android Debloater · GitLab https://gitlab.com/W1nst0n/universal-android-debloater#how-to-use-it
 skylot/jadx: Dex to Java decompiler https://github.com/skylot/jadx
-- [TOOL] Advance Tool for Android™ ADB and… | Android Development and Hacking https://forum.xda-developers.com/android/software-hacking/advance-tool-android-adb-fastboot-t3987605
+[TOOL] Advance Tool for Android™ ADB and… | Android Development and Hacking https://forum.xda-developers.com/android/software-hacking/advance-tool-android-adb-fastboot-t3987605
 vaquarkhan/Scrum-Master-Certificate-Study-Notes: Scrum Master Certificate Study Notes https://github.com/vaquarkhan/Scrum-Master-Certificate-Study-Notes
 jackstark231/Credible-Professional-Scrum-Master-I-PSM-I-Dumps-for-Excellent-Outcome: Succeed in the Professional Scrum Master I exam to approve skills Scrum framework and application. Passing this exam makes you a professional who has the fundamental know https://github.com/jackstark231/Credible-Professional-Scrum-Master-I-PSM-I-Dumps-for-Excellent-Outcome#evaluate-preparation-with-scrum-psm-i-practice-test-software
 CoderAllan/DoIGetItYetTheScrumGuide: Training tool for the PSM I certification. https://github.com/CoderAllan/DoIGetItYetTheScrumGuide
@@ -311,7 +308,7 @@ Top 15 Software Testing Trends to Watch Out in 2021 DZone Performance https://dz
 Free for developers https://free-for.dev/#/
 Use ArriveCAN: Submit travel information to enter Canada Canada.ca https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html#exempt
 Simple Present Form English Grammar https://www.ego4u.com/en/cram-up/grammar/simple-present/form
-- [TOOL]- [LOCKED/UNLOCKED] SALT The LG(up) revolution (begins) | XDA Developers Forums https://forum.xda-developers.com/t/tool-locked-unlocked-salt-the-lg-up-revolution-begins.3717864/
+[TOOL][LOCKED/UNLOCKED] SALT The LG(up) revolution (begins) | XDA Developers Forums https://forum.xda-developers.com/t/tool-locked-unlocked-salt-the-lg-up-revolution-begins.3717864/
 Games Flix GamesFlix.NeT | Download PC Games Free https://gamesflix.net/
 Sci Fi Archives Ocean of Games http://oceanofgames.com/category/sci-fi/
 PCGamesTorrents « Torrent Site for PC Games (VR, Anime,...) https://pcgamestorrents.com/
@@ -399,7 +396,7 @@ CNN http://www.cnn.com/
 ESPN http://m.espn.go.com/
 Weather Channel http://m.weather.com/
 BBC http://www.bbc.com/
-Download Smali Patcher - [Magisk Module] | MagiskRoot https://magiskroot.net/smali-patcher-magisk-module/
+Download Smali Patcher [Magisk Module] | MagiskRoot https://magiskroot.net/smali-patcher-magisk-module/
 Global Nest Atlas | The Silph Road | Pokemon GO Nests https://thesilphroad.com/atlas#6.52/42.139/-81.746
 GitHub PaulWaltersDev/FreeLearningResourcesForSoftwareTesters: A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers. https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
 GitHub TheJambo/awesome-testing: A curated list of testing resources https://github.com/TheJambo/awesome-testing
