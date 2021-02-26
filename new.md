@@ -1,362 +1,38 @@
 
-## Games
-[GameTrex Download Games For Free](https://gametrex.com/)
-
 
 ## Canada
-[New & Used Cars for Sale | Car Prices | Canadian Black Book](https://www.canadianblackbook.com/)
-[Best New Car Prices in Canada.Unhaggle](https://unhaggle.com)
+- [New & Used Cars for Sale | Car Prices | Canadian Black Book](https://www.canadianblackbook.com/)
+- [Best New Car Prices in Canada.Unhaggle](https://unhaggle.com)
 
 ## Home automation
-[Home Assistant](https://www.home-assistant.io/)
-
-## IPTV
-[stalker player](https://www.dosyaupload.com/o0yW)
-
-[OneHack.Us](https://onehack.us/t/sourcewolf-amazingly-fast-}response-crawler-to-find-juicy-stuff-in-the-source-code/104094)
-
-[Create Google TeamDrive](https://td.hackgence.com/)
-
-## drive
-[Google Drive Directory Index](https://github.com/kulokenci/goindex-drive)
-
-### Drive tools
-[Web app to copy a Google Drive folder](https://github.com/ericyd/gdrive-copy)
-
-### Colabs
-
-[OneClickRun.ipynb](https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb)
+- [Home Assistant](https://www.home-assistant.io/)
 
 # Misc
-[Indian Diet Plan for Weight Loss](https://www-healthifyme-com.cdn.ampproject.org/v/s/www.healthifyme.com/blog/best-indian-diet-plan-weight-loss/amp/?amp_js_v=a3&_gsa=1#referrer=https%3A%2F%2Fwww.google.com&_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.healthifyme.com%2Fblog%2Fbest-indian-diet-plan-weight-loss%2F)
+- [Indian Diet Plan for Weight Loss](https://www-healthifyme-com.cdn.ampproject.org/v/s/www.healthifyme.com/blog/best-indian-diet-plan-weight-loss/amp/?amp_js_v=a3&_gsa=1#referrer=https%3A%2F%2Fwww.google.com&_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.healthifyme.com%2Fblog%2Fbest-indian-diet-plan-weight-loss%2F)
 
-# Linux
-
-[online operating system tester](https://distrotest.net/?module=systems&submodule=run&id=966712)
+- [CleanSpoon ](https://ui.singintherain.co/pages/dashboard/widgets)
 
 
+[Agile Project Management and SCRUM OpenClassrooms ](https://openclassrooms.com/en/courses/4544621-learn-about-agile-project-management-and-scrum/4544628-discover-the-waterfall-and-iterative-approaches-to-software-development)
+[Free Online Course: Cyber Security from Swayam | Class Central ](https://www.classcentral.com/course/swayam-cyber-security-13978)
 
-## Testing
-[Test Management Tool | Kualitee](https://www.kualitee.com/)
+[Yours for the making Instructables ](https://www.instructables.com/)
 
-[What do a mobile QA and an octopus have in common](https://medium.com/bumble-tech/what-do-a-mobile-qa-and-an-octopus-have-in-common-c98e683f277c)
-[Adventures in QA](https://adventuresinqa.com/)
-
-[Foundation Level Mobile Application Testing](https://www.istqb.org/certification-path-root/mobile-application-testing.html)
-
-[Tap Into Mobile Application… by Jonathan Kohl](https://leanpub.com/testmobileapps)
-
-[Secrets to Mobile Application Testing and Internet of Thing Testing](http://mobiletestingtip.blogspot.com/)
-
-[ReportPortal test automation analytics](https://reportportal.io/)
-
-[Python Testing for Software Engineering](https://testandcode.com/)
-
-[No estimates: dream or reality MoT](https://www.ministryoftesting.com/dojo/series/meetups/lessons/no-estimates-dream-or-reality-darryn-downey)
-
-[Test Studio Automated Testing Tool](https://www.telerik.com/campaigns/teststudio/)
-
-[DevQA.io](https://devqa.io/)
-
-
-
-# Interview questions
-
-[A curated list of awesome Raspberry Pi tools, projects, images and resources](https://github.com/thibmaek/awesome-raspberry-pi)
-
-[JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
-
-[Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
-
-[Effective_Engineer.md](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
-
-# Projects
-
-[ A list of awesome beginners-friendly projects](https://github.com/MunGell/awesome-for-beginners)
+[Project Management Online Courses :: Management Plaza ](https://mplaza.training/)
+[Osherove Online Training ](https://courses.osherove.com/)
 
 
 
 
 
-#Shopping
-
-[Amazon price tracker](https://ca.camelcamelcamel.com/)
+tool for programmers to generate minimalistic programming portfoliohttps://github.com/fiffeek/Dyfolio
 
 
 
+[Reqres A hosted REST-API ready to respond to your AJAX requests ]https://reqres.in/
+[QA Automation: RestAssured ]https://www.qaautomation.co.in/search/label/RestAssured?m=1
 
 
-
-All Type of PC Video Games https://www.downloadgametrainer.com/
-(7) Watch | Facebook https://www.facebook.com/watch/?v=422017715327648
-MIT OpenCourseWare | Free Online Course Materials https://ocw.mit.edu/
-Paying off your mortgage early: Pros and cons | Fox Business https://www.foxbusiness.com/money/pay-your-mortgage-off-early-pros-and-cons.amp
-25 must-have softwares for a new install DEV https://dev.to/flolightc/25-must-have-softwares-for-a-new-install-pdn
-Microsoft Azure Virtual Training Days https://www.microsoft.com/en-ca/sites/microsoft-training-days/azure.aspx
-Free Test Automation For All – TestProject https://testproject.io/
-CleanSpoon https://ui.singintherain.co/pages/dashboard/widgets
-New Passport-Renewal of Passport | New Passport-Renewal of Passport with BLS International https://www.blsindia-canada.com/new_ppt.php
-Dashboard | BLS Support https://www.blsindia-canada.com/tktsupport/ticket.php?e=ndvn19qajJyh1NbVub5ys7uX&t=W6Onp5mg
-COVID 19 Exemption International Passenger COVID 19 Exemption International Passenger https://www.newdelhiairport.in/airsuvidha/covid-19-exemption-international-passenger
-400+ Practice Exam questions for Microsoft Azure AZ-900 | by Yagnesh Mehta | Oct, 2020 | Medium https://medium.com/@yagneshmehta183/400-practice-exam-questions-for-microsoft-azure-az-900-855f80429e68
-AZ-900 Exam Questions Discussion & Solutions OneHack.Us | Tutorials For Free, Guides, Articles & Community Forum https://onehack.us/t/az-900-exam-questions/86879
-Do you want to start a new application? https://visas-immigration.service.gov.uk/applicationInProgressWarning/pre-travel-health-declaration
-Home Perkopolis: Canada's Discount Program https://www.perkopolis.com/
-YYZ Deals | Cheap Flights & All Inclusive Vacations from Toronto http://www.yyzdeals.com/
-RetailMeNot Canada: Coupons, Promo Codes, Discounts & Free Shipping for Thousands of Stores https://www.retailmenot.ca/
-Promotion_offer | Zoomer Wireless https://www.zoomerwireless.ca//promotion_offer/data-bonus-offer
-Hot Deals RedFlagDeals.com Forums http://forums.redflagdeals.com/hot-deals-f9/
-Slickdeals: The Best Deals, Coupons, Promo Codes & Discounts https://slickdeals.net/
-Airline Seat Maps, Flights shopping and Flight informationBest Airplane Seats SeatGuru https://seatguru.com/
-Amazon price tracker, Amazon price history charts, price watches, and price drop alerts. | camelcamelcamel.com https://camelcamelcamel.com/
-UNiDAYS Fast, free, exclusive discounts for students https://www.myunidays.com/CA/en-CA
-New Product Reviews, Deals, and Buying Advice | Wirecutter https://www.nytimes.com/wirecutter/
-ApneTV Home of Hindi Serials | Dramas | Indian Entertainment https://apnetv.me/
-The.Witcher.Season.01.Dual.Audio.Complete.1080p.NF.WEB-DL Google Drive https://drive.google.com/drive/folders/1EkniREjI1LHsooP5xjSXzshuw9hK18Ov
-IPTV XTREAM CODES Daily Free Iptv Xtream Codes https://iptvxtreamcodes.com/
-Free Xtream Code Iptv FreeM3ulist https://freem3ulist.com/free-xtream-code-iptv/
-Xtream iptv code free download 17/06/2020 | IPTVSAT https://www.google.com/amp/s/iptvsat.com/xtream-iptv-code-free-download-06-05-2020/%3famp
-STB codes free https://www.rojavapro.de/2020/03/stb-codes-free.html?m=1
-Free STB EMU Mac Codes FreeM3ulist https://freem3ulist.com/free-stb-emu-mac-codes/
-StbEmu codes Stalker-Portal Home https://m.facebook.com/stbemucodes1/
-FREE STBEMU CODES Archives IPTV XTREAM CODES https://iptvxtreamcodes.com/category/free-stbemu-codes/
-Free Stbemu Code IPTV Gratuit 08-08-2020 IPTV4BEST https://www.iptv4best.com/stbemu-code-daily-update-05-2020/
-STBEMU CODES IPTV PORTAL+MAC FREE/02/07/2020 https://taghdoutehd.blogspot.com/2020/07/stbemu-codes-iptv-portalmac-free02072020.html?m=1
-Free IPTV SPORTM3u PlayList special and exclusive list with all iptv servers fastest sports channels on bein202 a most powerful m3u file upgrade for multi quality HD and SD and Low, uninterrupted and links has been carefully selected And accuracy. This is https://bein2022.com/2019/04/25/account-xtream/
-Free Stbemu Codes Daily Free Stbemu Codes For Mag And Stalker Devices https://www.stbemucodes.com/
-India: free iptv channels, m3u lists checked daily | HLS Cat https://hlscat.com/india
-X-Men Drive Google Drive https://drive.google.com/drive/folders/1ogPg9o0z2LXO6OvgoFzmbr2Zu4NQGYzz
-Hindi Tv Show Archives MoviesFlix -300mb Movies, 480p Movies https://moviesflix.de/tv-series/hindi-tv-show/
-Hindi Movies Archives The Movies Flix ⋆ Download Bollywood Movies Flix https://themoviesflix.in/movies/hindi-movies/
-Gujarati Movies Download, Free Download Gujarati Movies in Mp4 https://www.mp4moviez.one/category/49/Gujarati_movies/default/1.html
-Sharato Lagu Full Movie Download 720P HD Free 2018 Gujarati | Filmywap https://worldfree4u.desi/watch/tt9014884
-OkFreeMovies: Free Movies & TV Series for Watch Free Online https://okfreemovies.com/
-MyFlixer Watch movies and Series online free in Full HD https://www.myflixer.com/
-KeNi PaTeL (@_kp_1396) • Instagram photos and videos https://www.instagram.com/_kp_1396/
-MX Player Play Music Videos, Watch Movies, TV Shows, Web Series, Short Films & More https://www.mxplayer.in/
-Live TV Channels: Watch Live news, Live Music, Live Movies and lot more in Hindi, English and many other languages on MX Player https://www.mxplayer.in/browse/live-tv
-PiratedTech – Technology Pirates https://piratedtech.com/
-PC Archives | PiratedHub https://piratedhub.com/category/pc/
-(3) (3) https://spideadcrew.in/index.php
-Tamildeluxe https://tamildeluxe.org/
-AKGInfotech | Office 365 Updates, Technical Tricks & How To's https://www.akginfotech.com/
-Download Skillshare Courses using Google Colab | AKGInfotech https://www.akginfotech.com/2020/03/download-skillshare-courses-using-google-colab/
-US Address Generator Fake Address, Random Address Generator https://fakeaddressgenerator.com/World_Address/get_us_address/city/Detroit
-OneHack.Us | Tutorials For Free, Guides, Articles & Community Forum Tutorials Free. A place where everyone can share knowledge with each other. | OneHack.Us https://onehack.us/
-How To Get Paid Udemy Courses For FREE | 2020 (100% Legal Method) | The TechRim https://thetechrim.com/how-to-get-paid-udemy-courses-for-free-2020/
-Home | The TechRim https://thetechrim.com/
-How to get unlimited expressvpn free trial| private mod (100% working) | 2020 https://toptechpal.com/how-to-get-unlimited-expressvpn-free-trial-100-working-2020/
-Udemy_Downloader_By_The_Vip_Onehack_Us_Updated.ipynb Colaboratory https://colab.research.google.com/drive/1zEx_OMPJbewWtJueXbtbmITD7hz_GsEI#scrollTo=i53VKEGOkiYP
-How To Create Own Torrent To G-drive Telegram Bot InFoTel https://www.infotelbot.com/2020/05/To-Create-Own-Torrent-To-G-drive-Telegram-Bot.html
-ᐅ India Fake Name | Address | Credit Card | Generator https://fake-it.ws/in/
-DNSstuff Reviews | Opinions | Tools https://www.dnsstuff.com/
-Netcraft | Internet Research, Anti-Phishing and PCI Security Services https://www.netcraft.com/
-Random Credit Card Numbers Generator NamsoGen https://namso-gen.com/
-cc-gen by Jadugar Jaggu https://amznloot.com/cc-gen/
-FakeMail | Disposable Temp Mail https://www.fakemail.net/
-CC Checker Free credit card checker Mrchecker.net https://www.mrchecker.net/card/ccn2/
-2010 Honda Civic Sdn Sport https://www.kijijiautos.ca/vip/14795857/
-Jialezi `s blog http://blog.jialezi.net/
-How To Use Bins For Creating Free Premium Accounts | Get Started! Tutorials & Methods OneHack.Us | Tutorials For Free, Guides, Articles & Community Forum https://onehack.us/t/how-to-use-bins-for-creating-free-premium-accounts-get-started/78936
-RaidForums https://raidforums.com/
-Cracked.to Beyond the Limits https://cracked.to/
-Nulled https://www.nulled.to/
-Cracking Forums https://cracking.org/
-Sinisterly https://sinister.ly/
-Cracking King https://crackingking.com/
-Cracking Pro | Cracking Begins | Best Cracking Forum https://www.crackingpro.com/
-Indie Hackers: Work Together to Build Profitable Online Businesses https://www.indiehackers.com/
-Hack Forums https://hackforums.net/
-0x00sec The Home of the Hacker https://0x00sec.org/
-Freebie & Coupons Zone | Babiato Forums https://babiato.org/forums/freebie-coupons-zone.69/
-We Leak Info Data Breach Search Engine https://weleakinfo.to/
-💪The Ultimate COVID Job Resource Stack Google Sheets https://docs.google.com/spreadsheets/d/1bbGCingPw5rnUTyC1WFcPq167rKR4ZaAEzm67ozjbds/edit#gid=1484275757
-Remote Jobs in 💯 Programming, Design, Marketing and more https://remoteok.io/
-Remote Jobs: Customer Service, Marketing, Designer | Workew https://workew.com/
-Remote Jobs in Programming, Support, Design and more https://remotive.io/
-We Work Remotely: Remote jobs in design, programming, marketing and more https://weworkremotely.com/
-FlexJobs: The Best Remote Work From Home & Flexible Jobs https://www.flexjobs.com/
-Remote Jobs DailyRemote https://dailyremote.com/
-Work from anywhere apply to global remote and in-locale jobs https://www.kaam.work/
-Helpful Resources for Those Looking to Supplement or Generate Income | Acceleration Partners https://www.accelerationpartners.com/blog/helpful-resources-for-those-looking-to-supplement-or-generate-income
-Outsourcely Hire Talented Remote Workers & Find Great Remote Jobs https://www.outsourcely.com/
-Remote Jobs: 1,000+ Job Openings for Remote Work | Jobspresso https://jobspresso.co/
-REMOTE WORK: Jobs, Companies & Remote Talent 121 Countries Pangian.com https://pangian.com/
-Find awesome remote engineering, designer, product and marketing jobs | Remote https://remote.com/remote-jobs
-Modern Day Jobs https://moderndayjobs.com/?ref=producthunt
-Postings — Intern From Home https://www.internfromhome.com/postings/
-The DMZ https://dmz.ryerson.ca/
-Shrey Shah | AngelList https://angel.co/u/shrey-shah-17
-Jobs | Techstars Talent Network https://jobs.techstars.com/
-Sequoia Jobs https://www.sequoiacap.com/jobs/#
-Jobs | Y Combinator Job Board https://ycombinator.monday.vc/
-Jobs | Redpoint Ventures Job Board https://careers.redpoint.com/
-Startup Jobs Search Jobs by Venture Capital Companies | VentureLoop https://www.ventureloop.com/ventureloop/home.php
-Help Wanted Project https://www.helpwantedproject.com/
-Venture Capital Jobs and Career Resources (2020 edition) Venture Capital Jobs Blog https://johngannonblog.com/
-Data Council Job Board https://jobs.datacouncil.ai/?__cf_chl_jschl_tk__=1abe5cfb74b8176a072b60385cdb57c146f88cf2-1591053476-0-Ab5-2h-i0-bRDI_uaInOUHgmC5sgwQtNscbDQwtrg3uzL_neOr5bapI8QRoUPIosHGHeI1_0BF136uvjebNT-tPbYerFdReXI7zbfc4rdbXN0B6Gycu4n-sGLgrtY5ggkUf1G4MGLu6yTlyFJvjBdSOe6xL2I3QzXWlCbun6ja0CenSVhd4V26B9IJHgY0Vc2V2R4t1oPKlAmWd1NNknMcACMzDztyIXOLMfVu7iVg5W0hjM-fqSP37h1oJACA6SIPjHThHxAVTeR_bgpzxLCToGlFfvldVNJWY73UD86WR_Rr_02WNdmlde6rarG03eXGYUPZ8iQtq57xqJJGBsWuY
-Jobs | Prospect Job Board https://jobs.prospect.fyi/
-Triplebyte: Software Engineer Job Search https://triplebyte.com/users/start
-GitHub Jobs https://jobs.github.com/
-Findwork.dev: Search engine for tech jobs https://findwork.dev/
-Browse Tech, Finance and Healthcare Jobs | CyberCoders https://www.cybercoders.com/jobs/
-Hired Job Search Marketplace. Job Hunting Simplified! https://hired.ca/
-software test in various locations Job Search Job Bank https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=M&searchstring=software+test&button.submit=Search
-All Jobs From Hacker News 'Who is Hiring?' Posts | HNHIRING https://hnhiring.com/
-Check out who's still hiring during the corona crisis https://www.getsilverlining.com/job-board
-This is just a new beginning Switch https://getwanted.com/en-us/switch
-Still hiring http://www.stillhiring.io/?fbclid=IwAR243CJhcNmDxeDe8ncSkm35imYb-ntCf0ncBrW7IRN4RNs-u0xcPA2sjUE
-A Happy Job | Engineering Team Culture, Working Styles, Perks, and Tech Stack https://www.ahappyjob.com/
-Curasion https://app.curasion.com/#/candidate/portfolio
-Dribbble Discover the World’s Top Designers & Creative Professionals https://dribbble.com/
-Jobs ProBlogger Jobs https://problogger.com/jobs/
-Hire Freelancers & Find Freelance Jobs Online | Freelancer https://www.freelancer.com/
-Hire Freelancers & Remote Workers For Free https://talent.hubstaff.com/
-FreeUp | Hire Freelancers and Find Freelance Work Online https://freeup.net/
-Toptal Hire Freelance Talent from the Top 3% https://www.toptal.com/
-Jobs, Volunteering, Grad Schools, and More Idealist https://www.idealist.org/en/
-HackerRank https://www.hackerrank.com/
-LeetCode The World's Leading Online Programming Learning Platform https://leetcode.com/
-Learn to Code for Free | Codecademy https://www.codecademy.com/
-Coderbyte | The #1 Coding Assessment Platform https://coderbyte.com/challenges
-Firecode.io | Coding Interview Answers and Trainer https://www.firecode.io/
-GeeksforGeeks | A computer science portal for geeks https://www.geeksforgeeks.org/
-InterviewBit: Coding Interview Questions https://www.interviewbit.com/
-12 programming resources for coders of all levels | Opensource.com https://opensource.com/article/19/12/programming-resources?utm_campaign=intrel
-7 Skills of Highly Effective Programmers Better Programming Medium https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33
-142 Resources for Mastering Coding Interviews Better Programming Medium https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb
-5 Absolutely FREE Projects YOU should do to become a Full Stack SUPERMAN/SUPERWOMAN before the 2020 ends !!! DEV Community 👩‍💻👨‍💻 https://dev.to/saeeddev/5-absolutely-free-projects-you-should-do-to-become-a-full-stack-superman-before-the-2020-ends-2ci1
-Improve your Coding Skills with this Fun Game DEV Community 👩‍💻👨‍💻 https://dev.to/pluralsight/improve-your-coding-skills-with-this-fun-game-245f
-A VS Extension That Will Make You a Better Developer DEV Community 👩‍💻👨‍💻 https://dev.to/pluralsight/a-vs-extension-that-will-make-you-a-better-developer-2mf0
-Test Parallelization Techniques TestVagrant Medium https://medium.com/testvagrant/parallelization-techniques-cebfb7a0dac6
-The Wide World of Software Testing Sanjay Nair Medium https://medium.com/@nirespire/the-wide-world-of-software-testing-d38835b8c90e
-From a newbie to a test automation rock star, vol. 1 https://medium.com/swlh/https-medium-com-from-a-newbie-to-a-test-automation-rock-star-vol-1-4b0482565408?source=email-a008f193c16a-1575209996226-digest.reader------0-59------------------5352f20e_1f31_4d86_b103_cb9f16bb30cf-1-----
-How to Test Your Frontend with the Cypress.io Framework https://medium.com/free-code-camp/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330
-Here are some app ideas you can build to level up your coding skills https://medium.com/free-code-camp/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672
-Estimating Software Delivery Patrick Lynch Medium https://medium.com/@patricklynch/estimating-software-delivery-18efbf0f4bbc
-Udemy Free Coupons, 100% Off Udemy Coupons April 2019 https://couponscorpion.com/
-Real Discount  https://www.real.discount/
-ozbargain https://www.ozbargain.com.au/tag/udemy-course
-best-course-online https://www.best-course-online.com/
-Ultimate Skills https://skills2u.blogspot.com/?m=1
-teachinguide https://teachinguide.com/free-udemy-courses#filter-section
-promocoupons24 https://www.promocoupons24.com/?m=1
-DiscUdemy Free Udemy Courses https://www.discudemy.com/
-All Coupon Page 1 https://programming.discudemy.com/
-Free Courses Online Download | FreeCoursesOnline.Me https://www.freecoursesonline.me/?1
-Download Udemy Paid Courses For Free | FreeTutorials.Se https://freetutorials.se/
-Course Drive | Download Online Courses Completely Free! https://coursedrive.org/
-Desire Course Download Premium Udemy Courses For Free https://desirecourse.net/
-freetutorials https://www.freetutorials.eu/
-FreeCourseLab Download Paid Udemy Courses Free https://freecourselab.com/
-freetuts https://www.freetuts.download/
-Bitdownload Index of Learning.2/ http://s10.bitdownload.ir/Learning.2/
-freecoursesonline https://www.freecoursesonline.me/
-onlinefreecourse https://www.onlinefreecourse.net/
-Course Club Download Paid Courses For Free https://courseclub.net/
-freecourseudemy https://freecourseudemy.com/devops-tutorial-complete-beginners-training-5-in-1-bundle/
-TutsGalaxy | Free Courses & Tutorials https://tutsgalaxy.com/
-Course Club Download Paid Courses For Free https://courseclub.me/
-freecoursesite https://freecoursesite.com/?s=appium
-Free Courser – Download Overpriced Courses for Free. No Premium. No Download Speed Limit. Just Ads. https://freecourser.com/
-FREE DOWNLOAD IM & SEO TOOLS, WSO PRODUCTS, BIG COURSE, FOREX, CPA STUFF… FREE DOWNLOAD IM & SEO TOOLS, WSO PRODUCTS, BIG COURSE, FOREX, CPA STUFF… https://freecoursedl.com/
-UMecourses https://umecourses.xyz/
-PHP Development Courses Google Drive https://drive.google.com/drive/u/0/mobile/folders/0ByWO0aO1eI_MV0lhX1dkUlQ3YUk
-reclone udemy Google Drive https://drive.google.com/drive/mobile/folders/0Bwci1XJP8s_VZGN6OUdfTEozSmM
-Google will teach you about AI and machine learning for free https://www.androidauthority.com/google-will-teach-ai-machine-learning-free-842133/
-953 GB Courses in masters, graduates, tutorials, hacking, programming EVILEAKS https://evileaks.su/953-gb-courses-in-masters-graduates-tutorials-hacking-programming/
-Training Calendar | Scaled Agile https://www.scaledagile.com/training/calendar/?course_id=Agile+Software+Engineering
-Vlad Talks Tech by Vlad Catrinescu https://vladtalkstech.com/
-Web Shop Product https://support.tricentis.com/community/product.do?number=WIT0001016
-PSM I\u2122 Preparation Quiz \u2013 Real Mode \u2013 Mikhail Lapshin.pdf PSM I\u2122 Preparation Quiz \u2013 Real Mode \u2013 Mikhail Lapshin PSM I\u2122 Preparation Quiz | Course Hero https://www.coursehero.com/file/44448923/PSM-I-Preparation-Quiz-Real-Mode-Mikhail-Lapshinpdf/
-forcoder.su – Ebooks & Elearning For Programming https://forcoder.su/
-CoderProg Ebooks & Elearning For Programming https://coderprog.com/
-ScanLibs Ebooks & Elearning For Programming https://scanlibs.com/
-Osherove Online Training https://courses.osherove.com/courses/enrolled/815523
-Stream and Watch Paid Udemy Courses for Free Anytime | Ustreamy https://www.ustreamy.co/
-TutsNode Free Courses https://tutsnode.net/
-Learn anything with free online courses and MOOCs | Nasroo https://nasroo.com/
-Discover the Waterfall and Iterative Approaches to Software Development Learn About Agile Project Management and SCRUM OpenClassrooms https://openclassrooms.com/en/courses/4544621-learn-about-agile-project-management-and-scrum/4544628-discover-the-waterfall-and-iterative-approaches-to-software-development
-Free Online Course: Cyber Security from Swayam | Class Central https://www.classcentral.com/course/swayam-cyber-security-13978
-Azure fundamentals Free Online Course with Microsoft | Nasroo https://nasroo.com/course/azure-fundamentals-microsoft/
-Yours for the making Instructables https://www.instructables.com/
-Machine Learning Basics Courses Google Digital Garage Google Digital Garage https://learndigital.withgoogle.com/digitalgarage/course/machine-learning-basics
-How should we define AI? Elements of AI https://course.elementsofai.com/1/1
-Project Management Online Courses :: Management Plaza https://mplaza.training/
-Osherove Online Training https://courses.osherove.com/
-Browse all Learn | Microsoft Docs https://docs.microsoft.com/en-us/learn/browse/?roles=devops-engineer&products=azure
-Azure fundamentals learning path Learn | Microsoft Docs https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
-Introducing the first Microsoft Fluid Framework experiences in Outlook and Office.com Microsoft Tech Community 1345543 https://techcommunity.microsoft.com/t5/microsoft-365-blog/introducing-the-first-microsoft-fluid-framework-experiences-in/ba-p/1345543
-Collections BuildCloudSkillsChallenge | Microsoft Docs https://docs.microsoft.com/en-us/users/buildcloudskillschallenge/collections/60j5u7og741dgd?WT.mc_id=Build2020_csc_60j5u7og741dgd-site-mktg&OCID=AID3012653
-Introduction Learn | Microsoft Docs https://docs.microsoft.com/en-ca/learn/modules/principles-cloud-computing/1-introduction
-Introduction Learn | Microsoft Docs https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/1-introduction
-Become Microsoft certified and build your resilience for today’s and tomorrow’s digital economy | Microsoft Docs https://docs.microsoft.com/en-us/learn/certifications/skillingoffer?ranMID=36509&ranEAID=CAqD7bLWUPI&ranSiteID=CAqD7bLWUPI-Eee85WE4eNEPRtH.CNpMVw&epi=CAqD7bLWUPI-Eee85WE4eNEPRtH.CNpMVw&irgwc=1&OCID=AID2000142_aff_7814_1243925&tduid=%28ir__qkdfhp1rickftnqgkk0sohzg2m2xiz3titpa6i1g00%29%287814%29%281243925%29%28CAqD7bLWUPI-Eee85WE4eNEPRtH.CNpMVw%29%28%29&irclickid=_qkdfhp1rickftnqgkk0sohzg2m2xiz3titpa6i1g00
-Microsoft launches initiative to help 25 million people worldwide acquire the digital skills needed in a COVID-19 economy The Official Microsoft Blog https://blogs.microsoft.com/blog/2020/06/30/microsoft-launches-initiative-to-help-25-million-people-worldwide-acquire-the-digital-skills-needed-in-a-covid-19-economy/?irgwc=1&OCID=AID2000142_aff_7794_1246483&tduid=%28ir__19p9nxgzawkfrmaikk0sohzixv2xixavmw6whp0q00%29%287794%29%281246483%29%28%285a921937ae21b66a7f3d82526ec5493b%29%28266696%29%281018132%29%281998200510%29%28%29%29%285a921937ae21b66a7f3d82526ec5493b%29&irclickid=_19p9nxgzawkfrmaikk0sohzixv2xixavmw6whp0q00&ranMID=36509&ranEAID=CAqD7bLWUPI&ranSiteID=CAqD7bLWUPI-gMZeUEO1.2_rXOfHCmWGIg&epi=CAqD7bLWUPI-gMZeUEO1.2_rXOfHCmWGIg&irgwc=1&OCID=AID2000142_aff_7814_1243925&tduid=%28ir__qkdfhp1rickftnqgkk0sohzg2m2xi20ojlpa6i1g00%29%287814%29%281243925%29%28CAqD7bLWUPI-gMZeUEO1.2_rXOfHCmWGIg%29%28%29&irclickid=_qkdfhp1rickftnqgkk0sohzg2m2xi20ojlpa6i1g00
-Microsoft Certifications | Microsoft Docs https://docs.microsoft.com/en-us/learn/certifications/
-Azure Fundamentals — Almost all you need to know | by Amulya Rattan Bhatia | Aug, 2020 | Medium https://medium.com/@amulya.bhatia/azure-fundamentals-almost-all-you-need-to-know-4ae450fe7fc6
-Azure for beginners | ShivPrasad Koirala | Skillshare https://www.skillshare.com/classes/Azure-for-beginners/875654375?via=search-layout-grid
-Represent A better way to résumé https://represent.io/
-DoYouBuzz https://www.doyoubuzz.com/us/
-ResumeFodder Generate a resume online https://resumefodder.com/generate.html
-Reddit programming [Dyfolio] Dynamic portfolio/cv minimal website generator from json files https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/bl0tb3/dyfolio_dynamic_portfoliocv_minimal_website/
-GitHub nazarimilad/miladnazari.be: Source code of my personal website https://github.com/nazarimilad/miladnazari.be
-Email Subject Lines for Resumes and Job Applications https://www.thebalance.com/email-subject-lines-for-job-applications-2061890
-Selenium Tester Resume Software Testing http://www.gcreddy.com/2013/09/selenium-sample-resume.html
-Resume Review | CareerCup https://www.careercup.com/resumereview
-Resumake https://latexresu.me/generator/awards
-Resumake https://latexresu.me/
-This is what a GOOD resume should look like | CareerCup https://www.careercup.com/resume
-Integrate soapUI with Jenkins Software Testers Forum https://softwaretestersforum.blogspot.com/2013/04/integrate-soapui-with-jenkins.html
-SOAPUI-Useful-Concepts-and-Groovy-Scripts/Groovy-Encoding File in Groovy at master · rajendrapenumalli/SOAPUI-Useful-Concepts-and-Groovy-Scripts · GitHub https://github.com/rajendrapenumalli/SOAPUI-Useful-Concepts-and-Groovy-Scripts/blob/master/Groovy-Encoding%20File%20in%20Groovy
-GitHub rajendrapenumalli/SOAPUI-Useful-Concepts-and-Groovy-Scripts: Groovy scripts that helps to do some tasks in SoapUI tool https://github.com/rajendrapenumalli/SOAPUI-Useful-Concepts-and-Groovy-Scripts
-10 Groovy scripts on your finger tips – soapUI | Learn soapUI Open Source https://learnsoapui.wordpress.com/2011/07/17/10-groovy-scripts-on-your-finger-tips-soapui/
-GitHub smarshallplanit/soapui-framework: Basic SOAPUI project framework w/groovy scripts https://github.com/smarshallplanit/soapui-framework
-Data Driven Testing with Excel Files in Groovy RedLine13 https://www.redline13.com/blog/2018/08/data-driven-testing-with-excel-files-in-groovy/
-How to read data from excel using Groovy – SOAPUI – Anil Vij https://www.anilvij.com/how-to-read-data-from-excel-using-groovy-soapui/
-Groovy Script to save Test Results to a file in soapUI Software Testers Forum https://softwaretestersforum.blogspot.com/2013/03/groovy-script-to-save-test-results-to.html
-Create Writing Assertion Results into File and Customized Test Resport · rajendrapenumalli/SOAPUI-Useful-Concepts-and-Groovy-Scripts@dd125ef · GitHub https://github.com/rajendrapenumalli/SOAPUI-Useful-Concepts-and-Groovy-Scripts/commit/dd125efdd0fa97de8b75c776107425d57e88bc52
-SOAPUI-Useful-Concepts-and-Groovy-Scripts/SOAPUI OS Free Version Sending Email Test Report at 6e6cec7a6556aa04844e515778e307ba30fa6b89 · rajendrapenumalli/SOAPUI-Useful-Concepts-and-Groovy-Scripts · GitHub https://github.com/rajendrapenumalli/SOAPUI-Useful-Concepts-and-Groovy-Scripts/blob/6e6cec7a6556aa04844e515778e307ba30fa6b89/SOAPUI%20OS%20Free%20Version%20%20Sending%20Email%20Test%20Report
-soapUIGroovyScripts/groovy at master · nmrao/soapUIGroovyScripts · GitHub https://github.com/nmrao/soapUIGroovyScripts/tree/master/groovy
-groovy how to get data from excel to soapui request Stack Overflow https://stackoverflow.com/questions/46407278/how-to-get-data-from-excel-to-soapui-request
-GitHub fiffeek/Dyfolio: A tool for programmers to generate minimalistic programming portfolio with ease (preview: http://filipmikina.pl/). https://github.com/fiffeek/Dyfolio
-groovy Creating a Test Report from Project level tear down script Stack Overflow https://stackoverflow.com/questions/41700437/creating-a-test-report-from-project-level-tear-down-script
-soapUI Test Automation Framework – How? | Learn soapUI Open Source https://learnsoapui.wordpress.com/2011/10/19/soapui-test-automation-framework-how/
-java How to generate new txt file with a timestamp in groovy and SoapUI? Stack Overflow https://stackoverflow.com/questions/51000486/how-to-generate-new-txt-file-with-a-timestamp-in-groovy-and-soapui?rq=1
-Sample Scripts | SoapUI https://www.soapui.org/scripting-properties/tips-tricks.html
-SoapUI: Using Dynamic Properties – Assert.This http://www.brendanconnolly.net/soapui-using-dynamic-properties/
-Display Execution Date in soapUI HTML Report Software Testers Forum https://softwaretestersforum.blogspot.com/2013/11/display-execution-date-in-soapui-html.html
-Selenium & soapUI – Can they work together?? | Learn soapUI Open Source https://learnsoapui.wordpress.com/2012/09/27/selenium-soapui-can-they-work-together/
-Saving a SoapUI project and sending requests using SoapUI API | preet kaur https://pritikaur23.wordpress.com/2013/06/16/saving-a-soapui-project-and-sending-requests-using-soapui-api/
-Maven Plugin for SoapUI | SoapUI https://www.soapui.org/test-automation/maven/maven-2-x.html
-How to run soapUI tests from Java Stack Overflow https://stackoverflow.com/questions/22908086/how-to-run-soapui-tests-from-java
-Reqres A hosted REST-API ready to respond to your AJAX requests https://reqres.in/
-QA Automation: RestAssured https://www.qaautomation.co.in/search/label/RestAssured?m=1
-Documentation | Currency Converter API https://www.currencyconverterapi.com/docs
-REST API Automation testing from scratch-(Rest Assured java) Udemy Free Download Torrent | FTUForum.com https://ftuforum.com/rest-api-automation-testing-from-scratch-rest-assured-java-1/
-How to Implement Data Driven Testing in your JMeter Test | BlazeMeter https://www.blazemeter.com/blog/how-to-implement-data-driven-testing-in-your-jmeter-test
-JSONPlaceholder Fake online REST API for developers https://jsonplaceholder.typicode.com/
-machzqcq/CucumberJVMExamples: Cucumber JVM with Selenium Java https://github.com/machzqcq/CucumberJVMExamples
-frameworkium https://frameworkium.github.io/
-bonigarcia/webdrivermanager-examples: JUnit 4 tests with Selenium and WebDriverManager https://github.com/bonigarcia/webdrivermanager-examples
-hristo-vrigazov/bromium: Framework on top of selenium for recording and replaying UI actions https://github.com/hristo-vrigazov/bromium
-JSbotHQ/SeleBot: Ultimate Selenium TestNG framework https://github.com/JSbotHQ/SeleBot
-SeleniumPractise/ExampleTestNGLog4j.java at master · RevanthRedi/SeleniumPractise https://github.com/RevanthRedi/SeleniumPractise/blob/master/SeleniumPractise/src/topicsSelenium/ExampleTestNGLog4j.java
-ansonliao/Selenium-Extensions: A tool for supporting Selenium run test cases by parallel and multiple browsers types, and provide beautiful and detail test step test report https://github.com/ansonliao/Selenium-Extensions
-iljapavlovs/selenium-testng-allure-maven: Sample project using Selenium WebDriver, TestNg, Allure2 and Maven https://github.com/iljapavlovs/selenium-testng-allure-maven
-rahulrathore44/SeleniumCucumber: BDD framework for automation using Selenium Cucumber and TestNg https://github.com/rahulrathore44/SeleniumCucumber
-narottamgla/selenium-bdd-cucumber: selenium-bdd-cucumber using serenity for WEB and API automation https://github.com/narottamgla/selenium-bdd-cucumber
-estefafdez/selenium-cucumber: Selenium Webdriver 3.11.0 integration with Cucumber. https://github.com/estefafdez/selenium-cucumber
-bhavikbpatel/SeleniumPageFactoryFramework: A comprehensive framework with Selenium Page-Factory design pattern framework with POM. Takes care of failing test cases Retry, Screen captures, Extent Reports, Excel Reading, Synchronization etc. Parallel execut https://github.com/bhavikbpatel/SeleniumPageFactoryFramework
-wiselenium/wiselenium: An improved Page Factory Framework built upon Selenium WebDriver that takes Page Objects to the next level https://github.com/wiselenium/wiselenium
-katalon-studio/katalium https://github.com/katalon-studio/katalium
-opantsjoha/test-automation-java: Web test automation example project using Java, Maven, TestNG, Selenium3, Appium and Page Object Model (POM) https://github.com/opantsjoha/test-automation-java
-Frameworkium/frameworkium-core: Framework for writing maintainable Selenium and REST API tests in Java. https://github.com/Frameworkium/frameworkium-core
-sameeksha-sahib/selenium-utility: Sample project to cover common selenium usecase https://github.com/sameeksha-sahib/selenium-utility
-freeautomationlearning/CucumberFramework: This is Chirag... and this Repo for Cucumber code...... You can see Cucumber tutorial video at given you tube channel https://github.com/freeautomationlearning/CucumberFramework
-Madusudanan/Selenium: Code Snippets to work effectively with selenium https://github.com/Madusudanan/Selenium
-selenide-examples/testcontainers: Selenide + TestContainers (Docker) sample project https://github.com/selenide-examples/testcontainers
-freeautomationlearning/AppiumGrid: A framework for running appium tests in parallel across devices and also on desktop browser... U like it STAR it !! https://github.com/freeautomationlearning/AppiumGrid
-Allure Reporting with Selenium TestNg QA Automation https://www.qaautomation.co.in/2018/12/allure-reporting-with-selenium-testng.html?fbclid=IwAR110K8bOHP8v7G7nfqAe3tvsKlJEinFIiXQNT_eMub58W4kNTfsuzVEKPg&m=1
 uttesh/pdfngreport: This is the pdf report plugin library written for testng/selenium frameworks, this listener will generate the pdf report on testcases execution, its very simple to configure no need to write any code. https://github.com/uttesh/pdfngreport
 JitPack | Publish JVM and Android libraries https://jitpack.io/
 StickyMinds | Software Testing & QA Online Community https://www.stickyminds.com/
@@ -566,7 +242,7 @@ HIFI 2007 REVIEWS — Android apk software https://hifi2007reviews.com/
 20 Best ADB Commands Every Android Users Should Know https://techviral.net/android-adb-commands/
 SOURCE OF APK Source of daily free applications APK files and games https://sourceofapk.com/
 haxNode https://haxnode.com/
-[OFFICIAL][TOOL][WINDOWS] ADB, Fastboot and … | Android Development and Hacking https://forum.xda-developers.com/showthread.php?t=2588979
+- [OFFICIAL]- [TOOL]- [WINDOWS] ADB, Fastboot and … | Android Development and Hacking https://forum.xda-developers.com/showthread.php?t=2588979
 NMac Ked Mac OSX Apps & Games Download https://nmac.to/
 Hundred Zeros Download Free Books for Kindle http://hundredzeros.com/
 NulledPremium.Com | Download Paid Books, AudioBooks, Magazines For Free https://nulledpremium.com/
@@ -578,7 +254,7 @@ File Search Engine anonfile.com link genarator, fast download and upload, premiu
 CrackzSoft Verified and Trusted Softwares Store https://crackzsoft.me/
 cracked-games.org | Games & Software | Official Website https://cracked-games.org/
 Ova Games Crack Full Version PC Games Download Free https://www.ovagames.com/
-Skillshare_DL_[1hack] Colaboratory https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_[1hack].ipynb
+Skillshare_DL_- [1hack] Colaboratory https://colab.research.google.com/github/beast1hack/skillshare-1hack/blob/master/Skillshare_DL_- [1hack].ipynb
 PiratedTech – Technology Pirates https://piratedtech.com/
 PC Archives | PiratedHub https://piratedhub.com/category/pc/
 (3) (3) https://spideadcrew.in/index.php
@@ -614,13 +290,13 @@ Hack Forums https://hackforums.net/
 0x00sec The Home of the Hacker https://0x00sec.org/
 Freebie & Coupons Zone | Babiato Forums https://babiato.org/forums/freebie-coupons-zone.69/
 We Leak Info Data Breach Search Engine https://weleakinfo.to/
-[SCRIPT] [2020-09-18] [v2.6] Universal Andro… | Android Development and Hacking https://forum.xda-developers.com/android/software-hacking/script-universal-android-debloater-t4069209
+- [SCRIPT] - [2020-09-18] - [v2.6] Universal Andro… | Android Development and Hacking https://forum.xda-developers.com/android/software-hacking/script-universal-android-debloater-t4069209
 Apktool A tool for reverse engineering 3rd party, closed, binary Android apps. https://ibotpeaches.github.io/Apktool/
-[APP 4.0+] 3C All-in-One Toolbox | Android Development and Hacking https://forum.xda-developers.com/android/apps-games/app-2-3-3c-toolbox-pro-t2942186
-[APP] [5.0+] Warden App Manager | Android Development and Hacking https://forum.xda-developers.com/android/apps-games/warden-app-manager-t4122227
+- [APP 4.0+] 3C All-in-One Toolbox | Android Development and Hacking https://forum.xda-developers.com/android/apps-games/app-2-3-3c-toolbox-pro-t2942186
+- [APP] - [5.0+] Warden App Manager | Android Development and Hacking https://forum.xda-developers.com/android/apps-games/warden-app-manager-t4122227
 W1nst0n / Universal Android Debloater · GitLab https://gitlab.com/W1nst0n/universal-android-debloater#how-to-use-it
 skylot/jadx: Dex to Java decompiler https://github.com/skylot/jadx
-[TOOL] Advance Tool for Android™ ADB and… | Android Development and Hacking https://forum.xda-developers.com/android/software-hacking/advance-tool-android-adb-fastboot-t3987605
+- [TOOL] Advance Tool for Android™ ADB and… | Android Development and Hacking https://forum.xda-developers.com/android/software-hacking/advance-tool-android-adb-fastboot-t3987605
 vaquarkhan/Scrum-Master-Certificate-Study-Notes: Scrum Master Certificate Study Notes https://github.com/vaquarkhan/Scrum-Master-Certificate-Study-Notes
 jackstark231/Credible-Professional-Scrum-Master-I-PSM-I-Dumps-for-Excellent-Outcome: Succeed in the Professional Scrum Master I exam to approve skills Scrum framework and application. Passing this exam makes you a professional who has the fundamental know https://github.com/jackstark231/Credible-Professional-Scrum-Master-I-PSM-I-Dumps-for-Excellent-Outcome#evaluate-preparation-with-scrum-psm-i-practice-test-software
 CoderAllan/DoIGetItYetTheScrumGuide: Training tool for the PSM I certification. https://github.com/CoderAllan/DoIGetItYetTheScrumGuide
@@ -635,7 +311,7 @@ Top 15 Software Testing Trends to Watch Out in 2021 DZone Performance https://dz
 Free for developers https://free-for.dev/#/
 Use ArriveCAN: Submit travel information to enter Canada Canada.ca https://www.canada.ca/en/public-health/services/diseases/coronavirus-disease-covid-19/arrivecan.html#exempt
 Simple Present Form English Grammar https://www.ego4u.com/en/cram-up/grammar/simple-present/form
-[TOOL][LOCKED/UNLOCKED] SALT The LG(up) revolution (begins) | XDA Developers Forums https://forum.xda-developers.com/t/tool-locked-unlocked-salt-the-lg-up-revolution-begins.3717864/
+- [TOOL]- [LOCKED/UNLOCKED] SALT The LG(up) revolution (begins) | XDA Developers Forums https://forum.xda-developers.com/t/tool-locked-unlocked-salt-the-lg-up-revolution-begins.3717864/
 Games Flix GamesFlix.NeT | Download PC Games Free https://gamesflix.net/
 Sci Fi Archives Ocean of Games http://oceanofgames.com/category/sci-fi/
 PCGamesTorrents « Torrent Site for PC Games (VR, Anime,...) https://pcgamestorrents.com/
@@ -723,7 +399,7 @@ CNN http://www.cnn.com/
 ESPN http://m.espn.go.com/
 Weather Channel http://m.weather.com/
 BBC http://www.bbc.com/
-Download Smali Patcher [Magisk Module] | MagiskRoot https://magiskroot.net/smali-patcher-magisk-module/
+Download Smali Patcher - [Magisk Module] | MagiskRoot https://magiskroot.net/smali-patcher-magisk-module/
 Global Nest Atlas | The Silph Road | Pokemon GO Nests https://thesilphroad.com/atlas#6.52/42.139/-81.746
 GitHub PaulWaltersDev/FreeLearningResourcesForSoftwareTesters: A New Project to create a set of links to free Online Learning Resources for New and Experienced Software Testers. https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters
 GitHub TheJambo/awesome-testing: A curated list of testing resources https://github.com/TheJambo/awesome-testing
