@@ -9,6 +9,27 @@
 
 
 
+- [QA Automation: RestAssured ](https://www.qaautomation.co.in/search/label/RestAssured?m=1)
+    - [StickyMinds | Software Testing & QA Online Community ](https://www.stickyminds.com/)
+- [Vinsguru](http://www.vinsguru.com/)
+- [scalable-framework](https://github.com/p00j4/scalable-framework)
+- [Usage of Enum in Selenium](http://makeseleniumeasy.com/2020/04/27/usage-of-enum-in-selenium-webdriver-scripts/)
+- [MobileAutomationFramework](https://github.com/shankybnl/MobileAutomationFramework/tree/master/src/main/java/UITestFramework)
+- [Latest Learning topics The Club ](https://club.ministryoftesting.com/c/learning/117)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Tools
 - [Test Management Tool- Kualitee](https://www.kualitee.com/)
 - [Test Studio Automated Testing Tool](https://www.telerik.com/campaigns/teststudio/)

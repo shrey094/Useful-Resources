@@ -14,3 +14,6 @@
 - [filehippo](https://filehippo.com/)
 - [appwikia](http://www.appwikia.com/)
 - [computerworm](https://computerworm.net/page/2/)
+
+
+- [Remove Bloatwares from Windows 10 ](https://github.com/builtbybel/bloatbox)

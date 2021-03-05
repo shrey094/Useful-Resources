@@ -6,109 +6,89 @@
 # Misc
 - [Indian Diet Plan for Weight Loss](https://www-healthifyme-com.cdn.ampproject.org/v/s/www.healthifyme.com/blog/best-indian-diet-plan-weight-loss/amp/?amp_js_v=a3&_gsa=1#referrer=https%3A%2F%2Fwww.google.com&_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.healthifyme.com%2Fblog%2Fbest-indian-diet-plan-weight-loss%2F)
 - [CleanSpoon ](https://ui.singintherain.co/pages/dashboard/widgets)
+
+    
+
+## Agile
 - [Agile Project Management and SCRUM OpenClassrooms ](https://openclassrooms.com/en/courses/4544621-learn-about-agile-project-management-and-scrum/4544628-discover-the-waterfall-and-iterative-approaches-to-software-development)
-- [Free Online Course: Cyber Security from Swayam | Class Central ](https://www.classcentral.com/course/swayam-cyber-security-13978)
-- [Yours for the making Instructables ](https://www.instructables.com/)
-- [Project Management Online Courses :: Management Plaza ](https://mplaza.training/)
-- [Osherove Online Training ](https://courses.osherove.com/)
-- [tool for programmers to generate minimalistic programming portfolio](https://github.com/fiffeek/Dyfolio)
+
+## Study
+
+  
+## Resume 
+
+
+## API 
 - [Reqres A hosted REST-API ready to respond to your AJAX requests ](https://reqres.in/)
-- [QA Automation: RestAssured ](https://www.qaautomation.co.in/search/label/RestAssured?m=1)
-- [JitPack | Publish JVM and Android libraries ](https://jitpack.io/)
-- [StickyMinds | Software Testing & QA Online Community ](https://www.stickyminds.com/)
-- [Vinsguru](http://www.vinsguru.com/)
-- [scalable-framework](https://github.com/p00j4/scalable-framework)
-- [Usage of Enum in Selenium](http://makeseleniumeasy.com/2020/04/27/usage-of-enum-in-selenium-webdriver-scripts/)
-- [MobileAutomationFramework](https://github.com/shankybnl/MobileAutomationFramework/tree/master/src/main/java/UITestFramework)
-- [Latest Learning topics The Club ](https://club.ministryoftesting.com/c/learning/117)
-- [DietPi-Software ](https://dietpi.com/phpbb/viewtopic.php?p=1529#p1529)
-- [Airtable](https://airtable.com/?utm_source=airtable_shared_view)
-- [Free online meeting scheduling tool](https://doodle.com/en/)
-- [Notion Sign up ](https://www.notion.so/onboarding)
-- [Read the Docs ](https://readthedocs.org/)
-- [ReadMe ](https://readme.com/documentation)
-- [Slides – Create and share presentations online ](https://slides.com/)
-- [Upstream ](https://upstreamapp.com/)
-- [Code and Coffee ](https://code.andcoffee.io/onboarding/member/request_invite/question-1)
-- [ree-programming-books](https://github.com/EbookFoundation/free-programming-books)
-- [Learn how to design large-scale systems.](https://github.com/donnemartin/system-design-primer)
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-- [java-quiz](https://github.com/Ebazhanov/in-quiz-questions/blob/master/java/java-quiz.md)
-- [Linkedin quiz](https://github.com/Ebazhanov/in-quiz-questions)
-- [Remove Bloatwares from Windows 10 ](https://github.com/builtbybel/bloatbox)
-- [GitHub repositories for every Java developer](https://towardsdatascience.com/10-excellent-github-repositories-for-every-java-developer-41084a91ade9)
-- [lizrice (Liz Rice)](https://github.com/lizrice)
-- [The-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md)
-- [Awesome lists about all kinds of interesting topics ](https://github.com/sindresorhus/awesome)
-- [The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d)
-- [AmazonAssignment](https://github.com/amuthansakthivel/AmazonAssignment?files=1)
-- [Extracting Speech from Video using Python](https://towardsdatascience.com/extracting-speech-from-video-using-python-f0ec7e312d38)
-- [15 Machine Learning and Data Science Project Ideas](ttps://towardsdatascience.com/15-machine-learning-and-data-science-project-ideas-with-datasets-32f0a777d491)
-- [Premium Scripts, Plugins & Mobile ](http://www.codelist.cc/)
-- [Download Free Premium PHP Scripts,Wordpress,CMS And Etc ](https://nulled-scripts.cc/)
-- [Buy Plugins & Code from CodeCanyon ](https://codecanyon.net/?auto_signin=true&_ga=2.21401019.1844360008.1589418551-2104295813.1589418551)
-- [Drag and Drop Mobile App Builder for iOS and Android ](https://thunkable.com/#/)
-- [set of Maven tools for dealing with Dockerfiles ](https://github.com/spotify/dockerfile-maven)
-- [Remote Access SoftEther VPN Project ](https://www.softether.org/4-docs/2-howto/5.VPN_for_Home/1.Remote_Access#:~:text=through%20the%20Internet.-,Connect%20to%20Your%20Home%20Network%20Devices%20from%20Outside,connected%20to%20the%20home%20network.)
-- [Free Hosting Cloud Hosted with cPanel and full PHP Support ](https://x10hosting.com/)
-- [Find Your Free Domain ](https://www.dynadot.com/resumeboost)
-- [Portal Home FreeDomaini Get a Free Domain Name | Free Cloud 25GB Hosting No Ads ](https://www.freedomaini.com/)
-- [Domain Name Registration : Website Builder : Web Hosting : SSL Certificates : Dynadot.com ](https://www.dynadot.com/)
-- [Amazon's Simple Cloud Server | Amazon Lightsail ](https://aws.amazon.com/free/compute/lightsail/)
-- [40 Important Docker Commands for Software Developers ](https://www.ubuntupit.com/important-docker-commands-for-software-developers/)
-- [Kubernetes Playground | Katacoda ](https://www.katacoda.com/courses/kubernetes/playground)
-- [Kubernetes admin ](https://mega.nz/#F!N8pU1KoB!Tl40wRiVIEcxwhUYYrpRyg)
-- [Kubernetes How and Why to Get Certified](https://www.bmc.com/blogs/kubernetes-certifications/)
-- [Ready-Made App Templates for Bubble | Zeroqode ](https://zeroqode.com/templates)
-- [Visual Programming | Bubble ](https://bubble.io/)
-- [Publish an Angular, React, Svelte, or Vue JavaScript app and API with Azure Static Web Apps Learn | Microsoft Docs ](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=build2020_swa-frameworks-cxa)
-- [Create and publish a static web app with Gatsby and Azure Static Web Apps Learn ](https://docs.microsoft.com/en-us/learn/modules/create-deploy-static-webapp-gatsby-app-service/?WT.mc_id=build2020_swa-sitegen-cxa)
-- [My Domains 10dollar](https://www.10dollar.ca/en/domains.php?list=all)
-- [Let's Encrypt Free SSL/TLS Certificates ](https://letsencrypt.org/)
-- [Carrd Simple, free, fully responsive one-page sites for pretty much anything ](https://carrd.co/)
-- [Marvel The design platform for digital products. Get started for free. ](https://marvelapp.com/)
-- [Azure Static Web Apps documentation | Microsoft Docs ](https://docs.microsoft.com/en-us/azure/static-web-apps/?WT.mc_id=build2020_swa-docs-cxa)
-- [WooCommerce Sell Online With The eCommerce Platform for WordPress ](https://woocommerce.com/)
-- [Free Download Brizy Web UI Kit | Brizy Website Builder ](https://www.brizy.io/download-brizy-kit/)
-- [eCommerce Websites Templates | ThemeForest ](https://themeforest.net/category/ecommerce)
-- [Guide to JUnit 5 Parameterized Tests | Baeldung ](https://www.baeldung.com/parameterized-tests-junit-5)
-- [Integration Testing in Spring | Baeldung ](https://www.baeldung.com/integration-testing-in-spring)
-- [JUnit 5 Parameterized Tests – Mkyong.com ](https://mkyong.com/junit5/junit-5-parameterized-tests/)
-- [Convert Java Object into JSON and JSON into Java Object](https://www.chillyfacts.com/convert-java-object-json-json-java-object-jackson-api/)
-- [Integration Testing in Spring Boot DZone Integration ](https://dzone.com/articles/integration-testing-in-spring-boot-1)
-- [Spring boot MockMVC example with @WebMvcTest](https://howtodoinjava.com/spring-boot2/testing/spring-boot-mockmvc-example/)
-- [Testing the Web Layer] (https://spring.io/guides/gs/testing-web/)
-- [IoT using Eclipse Paho for Java, Mosquitto MQTT and ESP8266](https://www.youtube.com/watch?v=n-32wyp3k3U)
-- [solace-samples-mqtt Publish/Subscribe ](https://solace.com/samples/solace-samples-mqtt/publish-subscribe/)
-- [solace-samples-mqtt/TopicSubscriber.java at master · SolaceSamples/solace-samples-mqtt ](https://github.com/SolaceSamples/solace-samples-mqtt/blob/master/src/main/java/com/solace/samples/TopicSubscriber.java)
-- [java Subscribe and Read MQTT Message Using PAHO Stack Overflow ](https://stackoverflow.com/questions/22715682/subscribe-and-read-mqtt-message-using-paho/22716162)
-- [Implementing Custom Exceptions in Java DZone Java ](https://dzone.com/articles/implementing-custom-exceptions-in-java?fromrel=true)
-- [Clean Coding in Java | Baeldung ](https://www.baeldung.com/java-clean-code)
-- [GitHub ProgrammingHero1/100-plus-python-coding-problems-with-solutions: A list of python problems for beginners and intermediate developers ](https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions)
-- [Test Automation Reporting with Tesults and pytest ](https://www.swtestacademy.com/test-automation-reporting-tesults-pytest/)
-- [Importing and Exporting Data Insomnia ](https://support.insomnia.rest/article/52-importing-and-exporting-data)
-- [Insomnia REST Client ](https://insomnia.rest/)
+- [HTTPie- painless debugging and interaction with APIs](https://httpie.org/docs#installation)
+  
+## Testing 
 - [Resources For Software Testers | MoT ](https://www.ministryoftesting.com/dojo/series/resources)
 - [Let's Build an API Checking Framework Mark Winteringham | MoT ](https://dojo.ministryoftesting.com/dojo/series/let-s-build-an-api-checking-framework-mark-winteringham)
-- [API Integration in Python – Part 1 – Real Python ](https://realpython.com/api-integration-in-python/)
-- [Automated REST API Testing with Python](https://dev.to/dowenb/automated-rest-api-testing-with-python-2jm5)
-- [What's the best tool to perform API testing with Python? Quora ](https://www.quora.com/Whats-the-best-tool-to-perform-API-testing-with-Python)
-- [Modules and Packages Learn Python Free Interactive Python Tutorial ](https://www.learnpython.org/en/Modules_and_Packages)
-- [Python Code Quality: Tools & Best Practices – Real Python ](https://realpython.com/python-code-quality/)
-- [A Guide to Excel Spreadsheets in Python With openpyxl – Real Python ](https://realpython.com/openpyxl-excel-spreadsheets-python/)
-- [Reading an excel file using Python GeeksforGeeks ](https://www.geeksforgeeks.org/reading-excel-file-using-python/)
-- [How to create, read, update and search through Excel files using Python ](https://www.freecodecamp.org/news/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4/)
+
+## Java
+
+
+
+## Pi 
+- [DietPi-Software ](https://dietpi.com/phpbb/viewtopic.php?p=1529#p1529)
+  
+## Dev tools
+
+- [Insomnia REST Client ](https://insomnia.rest/)
+- [Glitch-Bypass setting up a local dev environment ](https://glitch.com/)
+- [DevDocs API Documentation ](https://devdocs.io/)
+- [Codeply -  free online editor  ](https://www.codeply.com/)
+
+### App and web builders
+
+
+
+## Dev
+- [Remote Access SoftEther VPN Project ](https://www.softether.org/4-docs/2-howto/5.VPN_for_Home/1.Remote_Access#:~:text=through%20the%20Internet.-,Connect%20to%20Your%20Home%20Network%20Devices%20from%20Outside,connected%20to%20the%20home%20network.)
+
+
+## Docker - Kube
+
+
+  
+## HAcks
+
+- [Extracting Speech from Video using Python](https://towardsdatascience.com/extracting-speech-from-video-using-python-f0ec7e312d38)
+
+## AI
+- [15 Machine Learning and Data Science Project Ideas](ttps://towardsdatascience.com/15-machine-learning-and-data-science-project-ideas-with-datasets-32f0a777d491)
+
+
+## Reqdy code for apps 
+- [Premium Scripts, Plugins & Mobile ](http://www.codelist.cc/)
+- [Download Free Premium PHP Scripts,Wordpress,CMS And Etc ](https://nulled-scripts.cc/)
+- [Buy Plugins & Code from CodeCanyon ](https://codecanyon.net/)
+
+
+## Hosting - server 
+- [Free Hosting Cloud Hosted with cPanel and full PHP Support ](https://x10hosting.com/)
+- [Amazon's Simple Cloud Server | Amazon Lightsail ](https://aws.amazon.com/free/compute/lightsail/)
+  
+## Domain
+
+
+## Mqtt - IOT
+
+## DB 
 - [SQLite Home Page ](https://www.sqlite.org/index.html)
 - [dbt (data build tool) Transform data in your warehouse ](https://www.getdbt.com/)
-- [Babel · The compiler for next generation JavaScript ](https://babeljs.io/repl/#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=false&spec=false&loose=false&code_lz=Q&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=env%2Creact%2Cstage-2%2Cenv&prettier=false&targets=&version=7.10.1&externalPlugins=)
-- [Glitch ](https://glitch.com/)
-- [DevDocs API Documentation ](https://devdocs.io/)
-- [Codeply v2 ](https://www.codeply.com/)
-- [HTTPie 2.1.0 (latest) documentation ](https://httpie.org/docs#installation)
+  
+## JS 
+- [Babel · The compiler for next generation JavaScript ](https://babeljs.io)
+
+
+
+
 - [MyBuild From code to scale! Build a static web app in minutes ](https://mybuild.microsoft.com/sessions/898230c4-1350-4fc6-acba-6baf1a58d76a?source=sessions)
 - [Regulex：JavaScript Regular Expression Visualizer ](https://jex.im/regulex/)
 - [explainshell.com match command-line arguments to their help text ](https://explainshell.com/)
-- [Regulex：JavaScript Regular Expression Visualizer ](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)
+
 - [Build Regex A Simple RegEx GUI ](http://buildregex.com/)
 - [Mockaroo Random Data Generator and API Mocking Tool | JSON / CSV / SQL / Excel ](https://www.mockaroo.com/)
 - [tldr | simplified, community driven man pages ](https://tldr.ostera.io/)

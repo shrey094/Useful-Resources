@@ -29,3 +29,10 @@
 ## How-tos
 - [How To Use Bins For Creating Free Premium Accounts](https://onehack.us/t/how-to-use-bins-for-creating-free-premium-accounts-get-started/78936)
 - [OneHack.Us](https://onehack.us/t/sourcewolf-amazingly-fast-}response-crawler-to-find-juicy-stuff-in-the-source-code/104094)
+
+- [Instructables- learn how to make anything ](https://www.instructables.com/)
+
+- [The-book-of-secret-knowledge- resources](https://github.com/trimstray/the-book-of-secret-knowledge/blob/master/README.md)
+- [Awesome lists about all kinds of interesting topics ](https://github.com/sindresorhus/awesome)
+- [The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d)
+  

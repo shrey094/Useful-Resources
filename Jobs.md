@@ -59,3 +59,20 @@
 ## Part time 
 
 - [Helpful Resources for Those Looking to Supplement or Generate Income](https://www.accelerationpartners.com/blog/helpful-resources-for-those-looking-to-supplement-or-generate-income)
+
+
+
+
+
+
+- [Code and Coffee ](https://code.andcoffee.io/onboarding/member/request_invite/question-1)
+- [tool for programmers to generate minimalistic programming portfolio](https://github.com/fiffeek/Dyfolio)
+- [Upstream-grow your professional network. ](https://upstreamapp.com/)
+- [Linkedin quiz](https://github.com/Ebazhanov/in-quiz-questions)
+- [AmazonAssignment](https://github.com/amuthansakthivel/AmazonAssignment?files=1)
+
+
+
+
+
+

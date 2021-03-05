@@ -35,3 +35,6 @@
 - [How to Set Up Auto-Complete for Git Commands on Windows cmd.exe](https://medium.com/@yannmjl/how-to-set-up-auto-complete-for-git-commands-on-windows-cmd-exe-687424d2f142)
 
 
+- [Free Online Course: Cyber Security from Swayam | Class Central ](https://www.classcentral.com/course/swayam-cyber-security-13978)
+- [Project Management Online Courses :: Management Plaza ](https://mplaza.training/)
+- [Osherove Online Training ](https://courses.osherove.com/)
