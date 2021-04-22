@@ -12,4 +12,5 @@
 - [Azure for beginners | ShivPrasad Koirala | Skillshare ](https://www.skillshare.com/classes/Azure-for-beginners/875654375?via=search-layout-grid)
 - [Azure fundamentals Free Online Course with Microsoft | Nasroo ](https://nasroo.com/course/azure-fundamentals-microsoft/)
 - [Azure fundamentals learning path Learn | Microsoft Docs ](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-
+- [Build a static web app in minutes ](https://mybuild.microsoft.com/sessions/898230c4-1350-4fc6-acba-6baf1a58d76a?source=sessions)
+  

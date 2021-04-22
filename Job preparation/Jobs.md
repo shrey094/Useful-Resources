@@ -62,6 +62,7 @@
 
 
 
+- [Get Paid To Test Websites 26 Companies That Pay Well in 2020 ($60/hr) ](https://www.dreamshala.com/best-platforms-to-get-paid-to-test-websites/)
 
 
 

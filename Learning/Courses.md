@@ -34,6 +34,6 @@
 - [Osherove Online Training ](https://courses.osherove.com/courses/enrolled/815523)
 - [TutsNode](https://tutsnode.net/)
 - [Learn anything with free online courses and MOOCs | Nasroo ](https://nasroo.com/)
-
+- [TutFlix Learn Any Course For Free ](https://tutflix.io/)
 ## PSM
 - [PSM Preparation Quiz ](https://www.coursehero.com/file/44448923/PSM-I-Preparation-Quiz-Real-Mode-Mikhail-Lapshinpdf/)

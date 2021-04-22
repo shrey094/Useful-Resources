@@ -1,39 +1,10 @@
-## Testing General
-- [Adventures in QA](https://adventuresinqa.com/)
-- [ReportPortal test automation analytics](https://reportportal.io/)
-- [No estimates: dream or reality MoT](https://www.ministryoftesting.com/dojo/series/meetups/lessons/no-estimates-dream-or-reality-darryn-downey)
-
-- [Test Parallelization Techniques TestVagrant Medium ](https://medium.com/testvagrant/parallelization-techniques-cebfb7a0dac6)
-- [The Wide World of Software Testing](https://medium.com/@nirespire/the-wide-world-of-software-testing-d38835b8c90e)
-- [From a newbie to a test automation rock star](https://medium.com/swlh/https-medium-com-from-a-newbie-to-a-test-automation-rock-star-vol-1-4b0482565408?source=email-a008f193c16a-1575209996226-digest.reader------0-59------------------5352f20e_1f31_4d86_b103_cb9f16bb30cf-1-----)
-
-
-
+- [Let's Build an API Checking Framework Mark Winteringham | MoT ](https://dojo.ministryoftesting.com/dojo/series/let-s-build-an-api-checking-framework-mark-winteringham)
 - [QA Automation: RestAssured ](https://www.qaautomation.co.in/search/label/RestAssured?m=1)
-    - [StickyMinds | Software Testing & QA Online Community ](https://www.stickyminds.com/)
-- [Vinsguru](http://www.vinsguru.com/)
-- [scalable-framework](https://github.com/p00j4/scalable-framework)
-- [Usage of Enum in Selenium](http://makeseleniumeasy.com/2020/04/27/usage-of-enum-in-selenium-webdriver-scripts/)
-- [MobileAutomationFramework](https://github.com/shankybnl/MobileAutomationFramework/tree/master/src/main/java/UITestFramework)
-- [Latest Learning topics The Club ](https://club.ministryoftesting.com/c/learning/117)
+- [JSONPlaceholder Fake online REST API for developers ](https://jsonplaceholder.typicode.com/)
 
+## JSON
+- [Json Parser Online ](http://json.parser.online.fr/beta/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-# Tools
-- [Test Management Tool- Kualitee](https://www.kualitee.com/)
-- [Test Studio Automated Testing Tool](https://www.telerik.com/campaigns/teststudio/)
-- [Free Test Automation For All](https://testproject.io/)
 ## SoapUI
 - [Integrate soapUI with Jenkins ](https://softwaretestersforum.blogspot.com/2013/04/integrate-soapui-with-jenkins.html)
 - [SOAPUI-Useful-Concepts-and-Groovy-Scripts](https://github.com/rajendrapenumalli/SOAPUI-Useful-Concepts-and-Groovy-Scripts/blob/master/Groovy-Encoding%20File%20in%20Groovy)
@@ -57,27 +28,3 @@
 - [Saving a SoapUI project and sending requests using SoapUI API | preet kaur ](https://pritikaur23.wordpress.com/2013/06/16/saving-a-soapui-project-and-sending-requests-using-soapui-api/)
 - [Maven Plugin for SoapUI | SoapUI ](https://www.soapui.org/test-automation/maven/maven-2-x.html)
 - [How to run soapUI tests from Java Stack Overflow ](https://stackoverflow.com/questions/22908086/how-to-run-soapui-tests-from-java)
-
-## Mobile
-- [What do a mobile QA and an octopus have in common](https://medium.com/bumble-tech/what-do-a-mobile-qa-and-an-octopus-have-in-common-c98e683f277c)
-
-
-- [Tap Into Mobile Application… by Jonathan Kohl](https://leanpub.com/testmobileapps)
-
-## Exams
-- [Foundation Level Mobile Application Testing](https://www.istqb.org/certification-path-root/mobile-application-testing.html)
-- [Secrets to Mobile Application Testing and Internet of Thing Testing](http://mobiletestingtip.blogspot.com/)
-
-## python
-- [Python Testing for Software Engineering](https://testandcode.com/)
-
-##Javascript
-- [How to Test Your Frontend with the Cypress.io](https://medium.com/free-code-camp/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
-
-
-## frameworks
-- [How to Implement Data Driven Testing in your JMeter Test | BlazeMeter ]https://www.blazemeter.com/blog/how-to-implement-data-driven-testing-in-your-jmeter-test
-- [JSONPlaceholder Fake online REST API for developers ]https://jsonplaceholder.typicode.com/
-
-
-
