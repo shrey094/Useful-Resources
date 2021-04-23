@@ -4,6 +4,8 @@
 
 ## JSON
 - [Json Parser Online ](http://json.parser.online.fr/beta/)
+- [JSON Formatter & Validator ](https://jsonformatter.curiousconcept.com/#)
+- [JSON Diff The semantic JSON compare tool ](http://www.jsondiff.com/)
 
 ## SoapUI
 - [Integrate soapUI with Jenkins ](https://softwaretestersforum.blogspot.com/2013/04/integrate-soapui-with-jenkins.html)

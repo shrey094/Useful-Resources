@@ -14,3 +14,5 @@
 
  [ree-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [Learn how to design large-scale systems.](https://github.com/donnemartin/system-design-primer)
+- [Free for developers ](https://free-for.dev/#/)
+- [Find Open Source By Searching, Browsing and Combining 7,000 Topics ](https://awesomeopensource.com/)

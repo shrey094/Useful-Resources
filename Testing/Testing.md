@@ -19,8 +19,23 @@
 - [Test Studio Automated Testing Tool](https://www.telerik.com/campaigns/teststudio/)
 - [Free Test Automation For All](https://testproject.io/)
 
+## Resources
+- [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
+- [GitHub TheJambo/awesome-testing: A curated list of testing resources ](https://github.com/TheJambo/awesome-testing)
 
-## Exams
-- [Foundation Level Mobile Application Testing](https://www.istqb.org/certification-path-root/mobile-application-testing.html)
-- [Secrets to Mobile Application Testing and Internet of Thing Testing](http://mobiletestingtip.blogspot.com/)
 
+- [Nikolay Niklenov software tester ](https://nniklenov.github.io/software-tester/)
+- [Test Management Tool | Kualitee ](https://www.kualitee.com/?utm_source=Slack&utm_medium=MoTPaid1&utm_campaign=MoTPaid1_Slack)
+
+
+- [Canada's leading software testing company | qa on request ](http://softwaretesting.ca/)
+
+- [Top 15 Software Testing Trends to Watch Out in 2021 DZone Performance ](https://dzone.com/articles/top-15-software-testing-trends-to-watch-out-in-202)
+
+
+
+- [Guide to JUnit 5 Parameterized Tests | Baeldung ](https://www.baeldung.com/parameterized-tests-junit-5)
+- [Integration Testing in Spring | Baeldung ](https://www.baeldung.com/integration-testing-in-spring)
+- [JUnit 5 Parameterized Tests – Mkyong.com ](https://mkyong.com/junit5/junit-5-parameterized-tests/)
+- [Integration Testing in Spring Boot DZone Integration ](https://dzone.com/articles/integration-testing-in-spring-boot-1)
+- [Testing the Web Layer](https://spring.io/guides/gs/testing-web/)

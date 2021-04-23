@@ -60,3 +60,9 @@
 
 ## git
 - [GitKraken](https://www.gitkraken.com/)
+
+## API tools
+- [Insomnia REST Client ](https://insomnia.rest/)
+- [Importing and Exporting Data Insomnia ](https://support.insomnia.rest/article/52-importing-and-exporting-data)
+- [Webhook.site Test, process and transform emails and HTTP requests ](https://webhook.site/#!/2e7075d1-cb87-43ce-afc3-a42d8cae4ba0)
+

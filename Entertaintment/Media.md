@@ -35,3 +35,5 @@
 [Tamildeluxe](https://tamildeluxe.org/)
 
 [ApneTV Home of Hindi Serials ](https://apnetv.me/)
+
+- [Watch Pokémon TV ](https://watch.pokemon.com/en-us/#/season?id=pokemon-generations)
