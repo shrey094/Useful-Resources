@@ -1,0 +1,11 @@
+## Email
+- [Bulk email software Mass email software | SendBlaster ](https://www.sendblaster.com/)
+- [Polymail — Modern email that works for you ](https://polymail.io/)
+- [Newton Mail Email app for iOS, Android, Mac & Windows ](https://newtonhq.com/)
+- [Spike Conversational Email ](https://www.spikenow.com/)
+- [The best email client for iPhone, iPad, Mac and Android | Spark ](https://sparkmailapp.com/)
+- [Secure email: ProtonMail is free encrypted email. ](https://protonmail.com/)
+- [Email Hosting Services | Pick Up Your Email | mail2web.com ](https://www.mail2web.com/)
+- [Airmail Email Client for iPhone, iPad and Mac ](https://airmailapp.com/)
+- [Email Marketing Made Easy | Constant Contact ](https://www.constantcontact.com/ca/email-marketing?cc=GOO-231107&utm_source=google&utm_medium=cpc&utm_content=Brand&pn=search&kid=_k_CjwKCAjwh472BRAGEiwAvHVfGi4O9HanJzgKIUMwex_yRMpghxKuZ2e81NbzkDyWhuyEPAzYSQccJRoCwIwQAvD_BwE_k_&IDA=CTCT%20IDA&gclid=CjwKCAjwh472BRAGEiwAvHVfGi4O9HanJzgKIUMwex_yRMpghxKuZ2e81NbzkDyWhuyEPAzYSQccJRoCwIwQAvD_BwE)
+- [denghongcai/forsaken-mail: a self-hosted disposable mail service ](https://github.com/denghongcai/forsaken-mail)
