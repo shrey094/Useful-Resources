@@ -1,10 +1,15 @@
-### Azure
+## Devops
 - [Start your DevOps pipeline in the Azure Cloud](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/start-your-devops-pipeline-in-the-azure-cloud/ba-p/1621484)
- [Exercise Use the Azure portal Learn | Microsoft Docs ](https://docs.microsoft.com/en-ca/learn/modules/tour-azure-portal/5-exercise-navigate-the-portal)
+- [Exercise Use the Azure portal Learn | Microsoft Docs ](https://docs.microsoft.com/en-ca/learn/modules/tour-azure-portal/5-exercise-navigate-the-portal)
+
+## Exams
 - [Ensure business continuity & disaster recovery using Azure Paired Regions | Microsoft Docs ](https://docs.microsoft.com/en-ca/azure/best-practices-availability-paired-regions)
 - [Azure products by region | Microsoft Azure ](https://azure.microsoft.com/en-ca/global-infrastructure/services/)
+- [Azure Fundamentals part 1: Describe core Azure concepts (AZ-900) Learn | Microsoft Docs ](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+   
+## Misc
 - [Get started with Azure CLI | Microsoft Docs ](https://docs.microsoft.com/en-ca/cli/azure/get-started-with-azure-cli)
 - [Azure Cloud Shell overview | Microsoft Docs ](https://docs.microsoft.com/en-ca/azure/cloud-shell/overview)
 - [Azure for AWS professionals Azure Architecture Center | Microsoft Docs ](https://docs.microsoft.com/en-ca/azure/architecture/aws-professional/)
 - [Pricing calculator | Microsoft Azure ](https://azure.microsoft.com/en-ca/pricing/calculator/)
-- [Azure Fundamentals part 1: Describe core Azure concepts (AZ-900) Learn | Microsoft Docs ](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+

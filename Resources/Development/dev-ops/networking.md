@@ -1,8 +1,5 @@
-## Networking
+## DNS
 - [DNSstuff Reviews ](https://www.dnsstuff.com/)
-- [Improve your Coding Skills with this Fun Game ](https://dev.to/pluralsight/improve-your-coding-skills-with-this-fun-game-245f)
-- [Estimating Software Delivery](https://medium.com/@patricklynch/estimating-software-delivery-18efbf0f4bbc)
-
 
 ## Domain
 - [Find Your Free Domain ](https://www.dynadot.com/resumeboost)

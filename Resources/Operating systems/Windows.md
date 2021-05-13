@@ -30,6 +30,7 @@
 - [CrackzSoft Verified and Trusted Softwares Store ](https://crackzsoft.me/)
 
 - [Built by Bel- analyze Windows 10 privacy & security](https://www.builtbybel.com/)
+- [25 must-have softwares for a new pc](https://dev.to/flolightc/25-must-have-softwares-for-a-new-install-pdn)
 
 
 - [Remove Bloatwares from Windows 10 ](https://github.com/builtbybel/bloatbox)

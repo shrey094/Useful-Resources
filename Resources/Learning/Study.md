@@ -12,6 +12,9 @@
 - [Katacoda Interactive Learning Platform for Software Engineers ](https://www.katacoda.com/)
 - [Learn to Code with Interactive Tutorials | Scrimba ](https://scrimba.com/)
 
+## Games
+- [Improve your Coding Skills with this Fun Game ](https://dev.to/pluralsight/improve-your-coding-skills-with-this-fun-game-245f)
+
 
 ## Coding Assessment
 - [Coderbyte | The #1 Coding Assessment Platform ](https://coderbyte.com/challenges)

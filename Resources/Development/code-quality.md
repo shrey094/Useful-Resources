@@ -1,9 +1,9 @@
 
-## code- quality
+## Tools
 - [Prettier v2.0.5 ](https://prettier.io/playground/)
 - [YAMLlint The YAML Validator ](http://www.yamllint.com/)
 
-## JAVA
+## Java
 - [Clean Coding in Java | Baeldung ](https://www.baeldung.com/java-clean-code)
 
 ## Python

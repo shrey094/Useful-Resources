@@ -1,4 +1,6 @@
 
-## DB
+## SQL
 - [SQLite Home Page ](https://www.sqlite.org/index.html)
-- [dbt (data build tool) Transform data in your warehouse ](https://www.getdbt.com/)
+  
+## Tools
+- [dbt - Automate data quality testing ](https://www.getdbt.com/)
