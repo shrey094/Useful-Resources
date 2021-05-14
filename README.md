@@ -3,7 +3,7 @@
 ## [Job preparation](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation)
 
 - [Interview Questions](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md)
-   - [Delenium](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#selenium)
+   - [Selenium](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#selenium)
    - [API](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#api)
    - [Java](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#java)
    - [Javascript](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#js)
