@@ -1,6 +1,5 @@
 ## Reads
 - [Let's Build an API Checking Framework Mark Winteringham | MoT ](https://dojo.ministryoftesting.com/dojo/series/let-s-build-an-api-checking-framework-mark-winteringham)
-- [QA Automation: RestAssured ](https://www.qaautomation.co.in/search/label/RestAssured?m=1)
 - [JSONPlaceholder Fake online REST API for developers ](https://jsonplaceholder.typicode.com/)
 
 ## JSON
