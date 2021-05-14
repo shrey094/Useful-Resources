@@ -9,6 +9,7 @@
 - [Vinsguru - blog testing](http://www.vinsguru.com/)
 - [Latest Learning topics The Club ](https://club.ministryoftesting.com/c/learning/117)
 - [Top 15 Software Testing Trends to Watch Out in 2021 DZone Performance ](https://dzone.com/articles/top-15-software-testing-trends-to-watch-out-in-202)
+- [QA Automation: RestAssured ](https://www.qaautomation.co.in/search/label/RestAssured?m=1)
 
 ## Testing Resources
 - [Free Learning Resources For Software Testers](https://github.com/PaulWaltersDev/FreeLearningResourcesForSoftwareTesters)
