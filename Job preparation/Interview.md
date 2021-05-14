@@ -21,7 +21,7 @@
 ## Testing General
 - [100 testing questions](https://www.softwaretestingmaterial.com/100-software-testing-interview-questions/)
 
-## Resources
+## interview question Resources
 - [12 programming resources for coders of all levels | Opensource.com ](https://opensource.com/article/19/12/programming-resources?utm_campaign=intrel)
 - [142 Resources for Mastering Coding Interviews Better Programming Medium ](https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb)
 - [Materials to help you rock your next coding interview](https://github.com/yangshun/tech-interview-handbook)
