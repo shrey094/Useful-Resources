@@ -14,3 +14,13 @@
 ## Extensions
 - **VS CODE** 
   - [A VS Extension That Will Make You a Better Developer](https://dev.to/pluralsight/a-vs-extension-that-will-make-you-a-better-developer-2mf0)
+
+## Code playgrounds
+- [Firecode.io | Coding Interview Answers and Trainer ](https://www.firecode.io/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Learn to Code for Free | Codecademy ](https://www.codecademy.com/)
+- [Katacoda Interactive Learning Platform for Software Engineers ](https://www.katacoda.com/)
+- [Learn to Code with Interactive Tutorials | Scrimba ](https://scrimba.com/)
+
+## Games
+- [Improve your Coding Skills with this Fun Game ](https://dev.to/pluralsight/improve-your-coding-skills-with-this-fun-game-245f)
