@@ -1,7 +1,7 @@
 # Testing Resources
 
-## [Testing General](https://github.com/shrey094/Useful-Resources/blob/testing/Testing%20General.md)
-   - [Blogs](https://github.com/shrey094/Useful-Resources/tree/testing/files)
+## [Testing General](https://github.com/shrey094/Useful-Resources/blob/testing/files/Testing%20General.md)
+   - [Blogs](https://github.com/shrey094/Useful-Resources/blob/testing/files/Testing%20General.md#testing-blogs)
    - [Reading resources](https://github.com/shrey094/Useful-Resources/blob/testing/files/Testing%20General.md#testing-resources)
 
 ## [API Testing](https://github.com/shrey094/Useful-Resources/blob/testing/files/api-testing.md)
