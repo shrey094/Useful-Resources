@@ -16,3 +16,9 @@
 ## code quality
 - [Clean Coding in Java | Baeldung ](https://www.baeldung.com/java-clean-code)
 
+## Testing
+- [Guide to JUnit 5 Parameterized Tests | Baeldung ](https://www.baeldung.com/parameterized-tests-junit-5)
+- [Integration Testing in Spring | Baeldung ](https://www.baeldung.com/integration-testing-in-spring)
+- [JUnit 5 Parameterized Tests – Mkyong.com ](https://mkyong.com/junit5/junit-5-parameterized-tests/)
+- [Integration Testing in Spring Boot DZone Integration ](https://dzone.com/articles/integration-testing-in-spring-boot-1)
+- [Testing the Web Layer](https://spring.io/guides/gs/testing-web/)

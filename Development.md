@@ -3,6 +3,10 @@
 - [Free for developers ](https://free-for.dev/#/)
 - [Find Open Source By Searching, Browsing and Combining 7,000 Topics ](https://awesomeopensource.com/)
 - [Learn how to design large-scale systems.](https://github.com/donnemartin/system-design-primer)
+- [The Full List of 400 Slack Communities](https://medium.com/startupsco/the-full-list-of-400-slack-communities-5545e82cf65d)
+- [Programming Resources](https://onehack.us/t/programming-resources-made-in-iran-massive-collection/104422)
+- [A-to-Z-Resources-for-Student](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+- [Awesome lists about all kinds of interesting topics ](https://github.com/sindresorhus/awesome)
 
 # Projects
 - [A list of awesome beginners-friendly projects](https://github.com/MunGell/awesome-for-beginners)

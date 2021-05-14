@@ -1,0 +1,1 @@
+- [How to Set Up Auto-Complete for Git Commands on Windows cmd.exe](https://medium.com/@yannmjl/how-to-set-up-auto-complete-for-git-commands-on-windows-cmd-exe-687424d2f142)
