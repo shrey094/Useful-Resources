@@ -25,8 +25,6 @@
 - [Startup Jobs Search Jobs by Venture Capital Companies | VentureLoop](https://www.ventureloop.com/ventureloop/home.php)
 - [Help Wanted Project ](https://www.helpwantedproject.com/)
 
-
-
 ## Tech jobs only
 - [Triplebyte: Software Engineer Job Search ](https://triplebyte.com/users/start)
 - [GitHub Jobs ](https://jobs.github.com/)
@@ -35,7 +33,6 @@
 
 ## Job Boards
 - [Jobs | Prospect Job Board ](https://jobs.prospect.fyi/)
-
 - [Hired Job Search Marketplace](https://hired.ca/)
 - [software test in various locations Job Search Job Bank ](https://www.jobbank.gc.ca/jobsearch/jobsearch?sort=M&searchstring=software+test&button.submit=Search)
 - [All Jobs From Hacker News 'Who is Hiring?' Posts | HNHIRING](https://hnhiring.com/)
@@ -56,16 +53,9 @@
 ## volunteering
 - [Jobs, Volunteering, Grad Schools, and More Idealist ](https://www.idealist.org/en/)
 
-## Part time 
-
+## Part-time 
 - [Helpful Resources for Those Looking to Supplement or Generate Income](https://www.accelerationpartners.com/blog/helpful-resources-for-those-looking-to-supplement-or-generate-income)
-
-
-
 - [Get Paid To Test Websites 26 Companies That Pay Well in 2020 ($60/hr) ](https://www.dreamshala.com/best-platforms-to-get-paid-to-test-websites/)
-
-
-
 - [Code and Coffee ](https://code.andcoffee.io/onboarding/member/request_invite/question-1)
 - [tool for programmers to generate minimalistic programming portfolio](https://github.com/fiffeek/Dyfolio)
 - [Upstream-grow your professional network. ](https://upstreamapp.com/)

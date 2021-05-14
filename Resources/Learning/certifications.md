@@ -11,7 +11,5 @@
 ## istqb
 - [Foundation Level Mobile Application Testing](https://www.istqb.org/certification-path-root/mobile-application-testing.html)
 
-## Azure
-- [Exam AZ-900: Microsoft Azure Fundamentals Learn | Microsoft Docs ](https://docs.microsoft.com/en-ca/learn/certifications/exams/az-900)
-- [Azure Fundamentals part 1: Describe core Azure concepts (AZ-900) Learn | Microsoft Docs ](https://docs.microsoft.com/en-ca/learn/paths/az-900-describe-cloud-concepts/)
--
+## Microsoft
+- [Become Microsoft certified and build your resilience for today’s and tomorrow’s digital economy | Microsoft Docs ](https://docs.microsoft.com/en-us/learn/certifications/skillingoffer?ranMID=36509&ranEAID=CAqD7bLWUPI&ranSiteID=CAqD7bLWUPI-Eee85WE4eNEPRtH.CNpMVw&epi=CAqD7bLWUPI-Eee85WE4eNEPRtH.CNpMVw&irgwc=1&OCID=AID2000142_aff_7814_1243925&tduid=%28ir__qkdfhp1rickftnqgkk0sohzg2m2xiz3titpa6i1g00%29%287814%29%281243925%29%28CAqD7bLWUPI-Eee85WE4eNEPRtH.CNpMVw%29%28%29&irclickid=_qkdfhp1rickftnqgkk0sohzg2m2xiz3titpa6i1g00)

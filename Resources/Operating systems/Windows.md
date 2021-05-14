@@ -28,11 +28,10 @@
 - [PC Archives | PiratedHub ](https://piratedhub.com/category/pc/)
 - [GitHub Awesome-Windows/Awesome: 🎉 An awesome & curated list of best applications and tools for Windows. ](https://github.com/Awesome-Windows/Awesome)
 - [CrackzSoft Verified and Trusted Softwares Store ](https://crackzsoft.me/)
-
 - [Built by Bel- analyze Windows 10 privacy & security](https://www.builtbybel.com/)
 - [25 must-have softwares for a new pc](https://dev.to/flolightc/25-must-have-softwares-for-a-new-install-pdn)
 
-
+#3 REMOVE BLOATWARE
 - [Remove Bloatwares from Windows 10 ](https://github.com/builtbybel/bloatbox)
 
 
