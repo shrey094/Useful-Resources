@@ -14,7 +14,7 @@
    - [Coding interview questions](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#coding-interview-questions)
    - [Coding assessment](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#coding-assessment)
 
-## Jobs
+## [Jobs](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Jobs.md)
 
  ### Remote
   - [Remote Jobs in 💯 Programming, Design, Marketing](https://remoteok.io/) <br/>
