@@ -27,7 +27,7 @@
    -   [Part-time](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Jobs.md#Part-time)
 
  ## [Resume Preparation](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md)
-   -  [](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#resume)
-   -  [](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#resume)
+   -  [Resume](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#resume)
+   -  [Porftolios example](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#porftolio)
 
 
