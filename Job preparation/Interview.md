@@ -5,7 +5,6 @@
 - [50 API Questions]( https://www.katalon.com/resources-center/blog/web-api-testing-interview-questions/)
 
 ## JAVA
-- [java-interview-questions](http://hugelearning.com/java-interview-questions/)
 - [OOPS Questions](https://www.softwaretestingmaterial.com/oops-concept-in-automation-framework/)
 - [OOPS](https://www.java67.com/2012/12/object-in-java-and-OOPS-example-tutorial.html)
 - [Usage of Enum in Selenium](http://makeseleniumeasy.com/2020/04/27/usage-of-enum-in-selenium-webdriver-scripts/)
