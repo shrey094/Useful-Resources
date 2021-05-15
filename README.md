@@ -2,7 +2,7 @@
 
 ## [Job preparation](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation)
 
-- ### [Interview Questions](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md)
+ ### [Interview Questions](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md)
    - [Selenium](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#selenium)
    - [API](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#api)
    - [Java](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#java)
@@ -16,7 +16,7 @@
 
 ## Jobs
 
-- ### Remote
+ ### Remote
   - [Remote Jobs in 💯 Programming, Design, Marketing](https://remoteok.io/) <br/>
   - [Remote Jobs: Customer Service, Marketing, Designer | Workew ](https://workew.com/) <br/>
   - [Remote Jobs in Programming, Support, Design and more ](https://remotive.io/) <br/>
@@ -33,7 +33,7 @@
   - [Shrey Shah | AngelList ](https://angel.co/u/shrey-shah-17) <br/>
   - [Jobs | Techstars Talent Network ](https://jobs.techstars.com/) <br/>
 
-- ### Startups
+ ### Startups
   - [The DMZ ](https://dmz.ryerson.ca/)
   - [Jobs | Redpoint Ventures Job Board ](https://careers.redpoint.com/)
   - [Venture Capital Jobs and Career Resources (2020 edition) Venture Capital Jobs Blog ](https://johngannonblog.com/)
