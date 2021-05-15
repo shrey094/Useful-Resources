@@ -1,20 +1,20 @@
 # [Job preparation](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation)
 
  ## [Interview Questions](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md)
-  - ### Software testing 
-      - [Selenium](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#selenium)
-      - [API](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#api)
-      - [Testing General](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#interview-question-resources)
-      - [Coding interview questions](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#coding-interview-questions)
-      - [Coding Assessment](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#coding-assessment) 
-  - ### Languages
-      - [JAVA](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#java)
-      - [Javascript](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#js)
-  - ### Processes
-     - [Agile](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#database)
-     - [Database](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#testing-general)
-  - ### 
-    - [interview question Resources](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#coding-interview-questions)
+   ### Software testing 
+   - [Selenium](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#selenium)
+   - [API](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#api)
+   - [Testing General](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#interview-question-resources)
+   - [Coding interview questions](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#coding-interview-questions)
+   - [Coding Assessment](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#coding-assessment) 
+   ### Languages
+   - [JAVA](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#java)
+   - [Javascript](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#js)
+   ### Processes
+   - [Agile](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#database)
+   - [Database](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#testing-general)
+  ### General interview questions
+   - [interview question Resources](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#coding-interview-questions)
  
  ## [Jobs](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Jobs.md)
    -   [Remote](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Jobs.md#remote)
