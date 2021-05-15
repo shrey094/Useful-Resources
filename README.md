@@ -1,5 +1,5 @@
 # [Job preparation](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation)
-
+ 
  ## [Interview Questions](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md)
    ### Software testing 
    - [Selenium](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md#selenium)
@@ -26,9 +26,8 @@
    -   [volunteering](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Jobs.md#volunteering)
    -   [Part-time](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Jobs.md#Part-time)
 
-
-
-
-
+ ## [Resume Preparation](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md)
+   -  [](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#resume)
+   -  [](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#resume)
 
 
