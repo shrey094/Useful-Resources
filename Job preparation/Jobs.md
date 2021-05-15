@@ -62,6 +62,9 @@
 - [Linkedin quiz](https://github.com/Ebazhanov/in-quiz-questions)
 - [AmazonAssignment](https://github.com/amuthansakthivel/AmazonAssignment?files=1)
 
+## How to write job application Email
+- [Email Subject Lines for Resumes and Job Applications ](https://www.thebalance.com/email-subject-lines-for-job-applications-2061890)
+
 
 
 
