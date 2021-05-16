@@ -30,4 +30,15 @@
    -  [Resume](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#resume)
    -  [Porftolios example](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#porftolio)
 
+# Learning
 
+## [AI](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md)
+
+
+## [Courses](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md)
+
+
+## [Certifications](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/certifications.md)
+
+
+## [programming](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/programming.md)
