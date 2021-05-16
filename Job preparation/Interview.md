@@ -8,11 +8,9 @@
 - [OOPS Questions](https://www.softwaretestingmaterial.com/oops-concept-in-automation-framework/)
 - [OOPS](https://www.java67.com/2012/12/object-in-java-and-OOPS-example-tutorial.html)
 - [Usage of Enum in Selenium](http://makeseleniumeasy.com/2020/04/27/usage-of-enum-in-selenium-webdriver-scripts/)
+- 
 ## Js
 - [JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
-
-## Agile
-- [Agile interview](http://www.softwaretestingmaterial.com/agile-testing-interview-questions/])
 
 ## Database
 - [mysql questions](http://hugelearning.com/mysql-interview-questions/)
