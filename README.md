@@ -39,7 +39,7 @@
    -  [Blogs](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md#blogs)
    -  [Resources](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md#ai-resources)
 
-## [Courses](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md)
+## [Download / Enroll into Courses](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md)
    -  [coupons](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#coupons)
    -  [Download](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#download)
    -  [official](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#official)
