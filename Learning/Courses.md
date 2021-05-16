@@ -9,7 +9,7 @@
 - [DiscUdemy Free Udemy Courses ](https://www.discudemy.com/)
 - [TutsNode](https://tutsnode.net/)
 
-## download 
+## Download 
 - [Course Drive | Download Online Courses Completely Free! ](https://coursedrive.org/)
 - [Desire Course Download Premium Udemy Courses For Free ](https://desirecourse.net/)
 - [freetutorials ](https://www.freetutorials.eu/)
