@@ -30,6 +30,7 @@
    -  [Resume](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#resume)
    -  [Porftolios example](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#porftolio)
 
+
 # Learning
 
 ## [AI](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md)
@@ -38,18 +39,15 @@
    -  [Blogs](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md#blogs)
    -  [Resources](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md#ai-resources)
 
-
 ## [Courses](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md)
    -  [coupons](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#coupons)
    -  [Download](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#download)
-   -  []()
-   -  []()
-   -  []()
-   -  []()
-   -  []()
-   -  
+   -  [official](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#official)
+   -  [search everywhere](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#search-all-courses-from-everywhere)
 
 ## [Certifications](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/certifications.md)
-
+   -  [PSM/SCM](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/certifications.md#psm---scm)
+   -  [ISTQB](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/certifications.md#istqb)
+   -  [mICROSOFT](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/certifications.md#microsoft)
 
 ## [programming](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/programming.md)
