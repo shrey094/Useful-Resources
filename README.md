@@ -49,5 +49,3 @@
    -  [PSM/SCM](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/certifications.md#psm---scm)
    -  [ISTQB](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/certifications.md#istqb)
    -  [Microsoft](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/certifications.md#microsoft)
-
-## [programming](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/programming.md)
