@@ -40,8 +40,8 @@
 
 
 ## [Courses](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md)
-   -  [](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#coupons)
-   -  [](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#download)
+   -  [coupons](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#coupons)
+   -  [Download](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md#download)
    -  []()
    -  []()
    -  []()
