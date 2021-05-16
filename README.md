@@ -31,7 +31,7 @@
    -  [Porftolios example](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#porftolio)
 
 
-# Learning
+# [Learning](https://github.com/shrey094/Useful-Resources/tree/career-resources/Learning)
 
 ## [AI](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md)
    -  [Certifications](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md#certifications)
