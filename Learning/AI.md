@@ -7,9 +7,6 @@
 
 ## Blogs
 - [How should we define AI? Elements of AI ](https://course.elementsofai.com/1/1)
-  
-## PROJECT IDEAS
-- [15 Machine Learning and Data Science Project Ideas](https://towardsdatascience.com/15-machine-learning-and-data-science-project-ideas-with-datasets-32f0a777d491)
 
 ## AI Resources 
 - [Awesome Artificial Intelligence (AI) Resources](https://onehack.us/t/awesome-artificial-intelligence-ai-resources-everything-that-you-need-2/89594)
