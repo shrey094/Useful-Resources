@@ -1,4 +1,4 @@
-# [Testing](https://github.com/shrey094/Useful-Resources/tree/testing)
+# Alt-[Testing](https://github.com/shrey094/Useful-Resources/tree/testing)
  - ### [Testing General](https://github.com/shrey094/Useful-Resources/blob/testing/files/Testing%20General.md)
     - [Blogs](https://github.com/shrey094/Useful-Resources/blob/testing/files/Testing%20General.md#testing-blogs)
     - [Reading resources](https://github.com/shrey094/Useful-Resources/blob/testing/files/Testing%20General.md#testing-resources)
@@ -10,7 +10,7 @@
 
 - ### [Testing Tools](https://github.com/shrey094/Useful-Resources/blob/testing/files/Testing%20Tools.md)
 
-# [Job preparation](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation)
+# Alt-[Job preparation](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation)
  
  ## [Interview Questions](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Interview.md)
    ### Software testing 
@@ -43,7 +43,7 @@
    -  [Porftolios example](https://github.com/shrey094/Useful-Resources/blob/career-resources/Job%20preparation/Resume%20preperation.md#porftolio)
 
 
-# [Learning](https://github.com/shrey094/Useful-Resources/tree/career-resources/Learning)
+# Alt-[Learning](https://github.com/shrey094/Useful-Resources/tree/career-resources/Learning)
 
 ## [AI](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md)
    -  [Certifications](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md#certifications)
