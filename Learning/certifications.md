@@ -8,7 +8,7 @@
 - [Scrum Quizzes – Mikhail Lapshin ](https://mlapshin.com/index.php/scrum-quizzes/)
 - [PSM Preparation Quiz ](https://www.coursehero.com/file/44448923/PSM-I-Preparation-Quiz-Real-Mode-Mikhail-Lapshinpdf/)
 
-## istqb
+## ISTQB
 - [Foundation Level Mobile Application Testing](https://www.istqb.org/certification-path-root/mobile-application-testing.html)
 
 ## Microsoft
