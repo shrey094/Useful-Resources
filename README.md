@@ -33,6 +33,10 @@
 # Learning
 
 ## [AI](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md)
+   -  [Certifications](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md#certifications)
+   -  [Courses](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md#courses)
+   -  [Blogs](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md#blogs)
+   -  [Resources](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/AI.md#ai-resources)
 
 
 ## [Courses](https://github.com/shrey094/Useful-Resources/blob/career-resources/Learning/Courses.md)
