@@ -11,4 +11,5 @@
 - [Dynamic portfolio/cv minimal website generator ](https://www.google.com/amp/s/amp.reddit.com/r/programming/comments/bl0tb3/dyfolio_dynamic_portfoliocv_minimal_website/)
 - [Nikolay Niklenov software tester ](https://nniklenov.github.io/software-tester/)
 
-
+## LinkedIn
+- [LinkedIn Profile Every Recruiter Want You To Have](https://dev.to/nickbulljs/linkedin-profile-every-recruiter-want-you-to-have-36hf)
