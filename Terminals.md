@@ -7,3 +7,4 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 - [Learn VIM while playing a game VIM Adventures ](https://vim-adventures.com/)
 - [Console Emulator ](https://cmder.net/)
+- [Show off your Terminal Setup](https://dev.to/xenoxdev/show-off-your-terminal-setup-3c9e)
