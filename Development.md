@@ -7,6 +7,7 @@
 - [Programming Resources](https://onehack.us/t/programming-resources-made-in-iran-massive-collection/104422)
 - [A-to-Z-Resources-for-Student](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 - [Awesome lists about all kinds of interesting topics ](https://github.com/sindresorhus/awesome)
+- [Ultimate Cheatsheet Compilation](https://dev.to/palashmon/ultimate-cheatsheet-compilation-32c9)
 
 # Projects
 - [A list of awesome beginners-friendly projects](https://github.com/MunGell/awesome-for-beginners)
